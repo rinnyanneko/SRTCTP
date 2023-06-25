@@ -4,7 +4,7 @@
 
 # 安裝
 
-+ [下載本專案](releases)
++ [下載本專案](https://github.com/rinnyanneko/SRTCTP/releases/)
 + 所有檔案放入SimRail語言資料夾(...\steamapps\common\SimRail\SimRail_Data\StreamingAssets\Locales)
 + 將原本的zh-CN.lang和zh-Hans.json刪除
 + 將zh-TW.lang/zh-Hant.json改名為zh-CN.lang/zh-Hans.json
