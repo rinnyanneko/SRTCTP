@@ -2,7 +2,7 @@
 
 這是SimRail中文社區發起的翻譯專案，目的是將SimRail翻譯成繁體中文，讓更多的玩家能夠更方便的遊玩SimRail。
 
-若有不正確的地方 請至[Discord](https://discord.gg/VxJAjDQg9E)反應 或自行修正後開啟[Pull Request](https://github.com/rinnyanneko/SRTCTP/pulls)
+若有不正確的地方 請至[Discord](https://discord.gg/VxJAjDQg9E)或[issues](https://github.com/rinnyanneko/SRTCTP/issues)反應 或自行修正後開啟[Pull Request](https://github.com/rinnyanneko/SRTCTP/pulls)
 
 # 安裝
 
