@@ -1,0 +1,601 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-17 13:12+0200\n"
+"PO-Revision-Date: 2023-11-18 16:04+0000\n"
+"Last-Translator: Rin Hsu <rinnyanneko@outlook.com>\n"
+"Language-Team: Chinese (Traditional) <https://sts.simkol.pl:18443/projects/"
+"simrail/PaperTimetable/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.14.2\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: src/simrail_train_scanner/api/requests_responses.py:34
+msgid "Ready to display."
+msgstr "處理完成。"
+
+#: src/simrail_train_scanner/api/requests_responses.py:36
+msgid "Your request is now being process. Won't be long."
+msgstr "正在處理您的請求。 不會太久的。"
+
+#: src/simrail_train_scanner/api/requests_responses.py:38
+msgid "Your request has been scheduled for processing. Bear with us!"
+msgstr "您的請求正在佇列中。 請耐心等候！"
+
+#: src/simrail_train_scanner/api/requests_responses.py:39
+msgid "Your request is in an unknown state. Try again."
+msgstr "您的請求狀態未知。 請重試。"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:59
+msgid "Unsettled ballast"
+msgstr "地面不穩定"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:70
+#: src/simrail_train_scanner/database/operational_warnings.py:91
+#: src/simrail_train_scanner/database/operational_warnings.py:122
+msgid "Poor condition of the viaduct"
+msgstr "高架橋狀況不良"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:81
+msgid "No staff at level crossing"
+msgstr "無人職守平交道"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:102
+#: src/simrail_train_scanner/database/operational_warnings.py:132
+#: src/simrail_train_scanner/database/operational_warnings.py:143
+msgid "Poor condition of the switch"
+msgstr "轉轍器狀況不良"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:112
+msgid "Poor condition of the track"
+msgstr "軌道狀況不良"
+
+#: src/simrail_train_scanner/templates/base.html:27
+msgid "Logged in as"
+msgstr "登入名稱"
+
+#: src/simrail_train_scanner/templates/choose_train.html:7
+msgid "Choose train to generate Documents for"
+msgstr "選擇車次來產生對應文件"
+
+#: src/simrail_train_scanner/templates/choose_train.html:15
+msgid "Enter train number"
+msgstr "輸入車次"
+
+#: src/simrail_train_scanner/templates/continuous_timetable.html:4
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:6
+#: src/simrail_train_scanner/templates/timetable_element.html:6
+#: src/simrail_train_scanner/templates/timetable_printable.html:6
+msgid "Route"
+msgstr "路線"
+
+#: src/simrail_train_scanner/templates/home.html:3
+msgid "Printable Timetables for Simrail simulator and more"
+msgstr "用於SimRail模擬器的可印刷時刻表和其它文件"
+
+#: src/simrail_train_scanner/templates/home.html:10
+msgid "New!"
+msgstr "New!"
+
+#: src/simrail_train_scanner/templates/home.html:11
+msgid "Timetables and Warnings"
+msgstr "時刻表和運輸指令"
+
+#: src/simrail_train_scanner/templates/home.html:12
+msgid ""
+"Access timetables and warnings for all Simrail trains. Available in "
+"printer-friendly, e-ink friendly and mobile friendly formats."
+msgstr "取得SimRail火車的時間表和警示資訊。 "
+"有分別對印刷、電子書顯示、行動裝置顯示友善的版本。"
+
+#: src/simrail_train_scanner/templates/home.html:13
+msgid "Get documents"
+msgstr "取得檔案"
+
+#: src/simrail_train_scanner/templates/home.html:18
+msgid "Trains to drive"
+msgstr "車次列表"
+
+#: src/simrail_train_scanner/templates/home.html:19
+msgid "Pick a train to drive across all servers."
+msgstr "查看伺服器上正在運行的所有列車。"
+
+#: src/simrail_train_scanner/templates/home.html:20
+msgid "Drive a train"
+msgstr "查看車次"
+
+#: src/simrail_train_scanner/templates/login.html:3
+#: src/simrail_train_scanner/templates/login.html:10
+msgid "Log In"
+msgstr "登入"
+
+#: src/simrail_train_scanner/templates/login.html:12
+msgid "You must be logged in to view this section of the website."
+msgstr "您必須登入本站來查看本頁面。"
+
+#: src/simrail_train_scanner/templates/r307_printable.html:6
+msgid "\"O\" written order"
+msgstr "運輸指令\"O\""
+
+#: src/simrail_train_scanner/templates/r307_printable.html:7
+msgid "for train No."
+msgstr "車次"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:6
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:20
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:21
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:22
+#: src/simrail_train_scanner/templates/timetable_element.html:20
+#: src/simrail_train_scanner/templates/timetable_element.html:21
+#: src/simrail_train_scanner/templates/timetable_element.html:22
+msgid "Loco"
+msgstr "機車"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:7
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:25
+#: src/simrail_train_scanner/templates/timetable_element.html:25
+msgid "Load"
+msgstr "載重"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:8
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:26
+#: src/simrail_train_scanner/templates/timetable_element.html:26
+msgid "Tr.len."
+msgstr "長度"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:9
+msgid "Vmax"
+msgstr "限速"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:15
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:17
+#: src/simrail_train_scanner/templates/timetable_element.html:17
+msgid "Station"
+msgstr "車站"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:16
+msgid "Stop"
+msgstr "停車"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:17
+msgid "Arr"
+msgstr "抵達"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:18
+msgid "Dep"
+msgstr "出發"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:13
+#: src/simrail_train_scanner/templates/timetable_element.html:13
+msgid "Line number"
+msgstr "路線編號"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:14
+#: src/simrail_train_scanner/templates/timetable_element.html:14
+msgid "Km"
+msgstr "Km"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:15
+#: src/simrail_train_scanner/templates/timetable_element.html:15
+msgid "V<sub>P</sub>"
+msgstr "V<sub>客</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:16
+#: src/simrail_train_scanner/templates/timetable_element.html:16
+msgid "V<sub>L</sub>"
+msgstr "V<sub>貨</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:18
+#: src/simrail_train_scanner/templates/timetable_element.html:18
+msgid "Time"
+msgstr "時間"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:19
+msgid "Rail Traffic Management Center"
+msgstr "鐵路交通管制中心"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:20
+msgid "in Katowice"
+msgstr "卡托維茲"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:25
+#: src/simrail_train_scanner/templates/train_documents.html:43
+#: src/simrail_train_scanner/templates/trains.html:86
+msgid "Timetable"
+msgstr "時刻表"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:26
+msgid "for train number"
+msgstr "車次"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:27
+msgid "generated by"
+msgstr "創建於"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:30
+msgid "on the"
+msgstr "日期"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:31
+msgid "at"
+msgstr "時間"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:37
+msgid "Driver!"
+msgstr "駕駛請注意!"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:38
+msgid "Use your radio for essential communications only."
+msgstr "非必要不使用無線電。"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:39
+msgid "Do not abuse."
+msgstr "請勿濫用無線電。"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:40
+msgid "Respect speed limits when driving."
+msgstr "請遵照速限行駛。"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:41
+msgid "They are there for a reason."
+msgstr "有限速必有其因。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:3
+#: src/simrail_train_scanner/templates/train_documents.html:9
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:3
+msgid "Documents for train number"
+msgstr "車次文件"
+
+#: src/simrail_train_scanner/templates/train_documents.html:12
+msgid "Train found in the Simrail Express database."
+msgstr "在Simrail Express的資料庫找到了此車次。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "This is a"
+msgstr "這是一個"
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "train from"
+msgstr "始發站"
+
+#: src/simrail_train_scanner/templates/train_documents.html:15
+msgid "to"
+msgstr "終點站"
+
+#: src/simrail_train_scanner/templates/train_documents.html:20
+msgid "Some documents might be missing after the latest SimRail release."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:21
+msgid "It shouldn't take too long to add them."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:31
+msgid "Download all Train Documents as a single file"
+msgstr "下載包含所有文件的單一文件"
+
+#: src/simrail_train_scanner/templates/train_documents.html:34
+msgid "(or download them separately below, if you wish so)"
+msgstr "（您也可以在下面分別下載單獨的檔案）"
+
+#: src/simrail_train_scanner/templates/train_documents.html:44
+msgid ""
+"Contains information about stations, times and line speeds as well as the"
+" scheduled formation."
+msgstr "以固定格式寫明的關於車站、運轉時刻、線路限速等資訊。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:45
+msgid "Continuous timetable"
+msgstr "連續版時刻表"
+
+#: src/simrail_train_scanner/templates/train_documents.html:48
+msgid ""
+"\n"
+"            Choose the Continuous timetable if you want to display it on "
+"your monitor or mobile device.\n"
+"            No pagination.\n"
+"            "
+msgstr ""
+"如果您希望在顯示器或行動裝置上顯示，請使用連續版時刻表。\n"
+"不會分頁顯示。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:53
+msgid "PDF timetable"
+msgstr "PDF時刻表"
+
+#: src/simrail_train_scanner/templates/train_documents.html:56
+msgid ""
+"\n"
+"            Choose the PDF timetable if you want to print it out or "
+"display on an e-Ink device.\n"
+"            "
+msgstr "如果您希望列印出來，或在電子書上顯示，請使用PDF版時刻表。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:67
+msgid "Warnings"
+msgstr "運輸指令"
+
+#: src/simrail_train_scanner/templates/train_documents.html:69
+msgid ""
+"The Written Order O also known as R307 contains information about "
+"temporary speed restrictions."
+msgstr "運輸指令\"O\"也被稱為R307，包含了關於臨時限速的資料。"
+
+#: src/simrail_train_scanner/templates/train_documents.html:70
+msgid "PDF R307"
+msgstr "PDF R307"
+
+#: src/simrail_train_scanner/templates/train_documents.html:73
+msgid ""
+"\n"
+"            This feature is currently available in beta. There might be "
+"missing restrictions and other inaccuracies.\n"
+"            "
+msgstr "此功能處於Beta階段。 可能存在遺漏和不準確之處。"
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:9
+msgid "No such train"
+msgstr "這班車不存在"
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:17
+msgid "Train with such a number does not exist in the Simrail Express database."
+msgstr "無法在Simrail Express資料庫中找到該車次。"
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:18
+msgid "Try again?"
+msgstr "再試一次？"
+
+#: src/simrail_train_scanner/templates/trains.html:3
+#: src/simrail_train_scanner/templates/trains.html:9
+msgid "Trains available for driving"
+msgstr "可供駕駛的車次"
+
+#: src/simrail_train_scanner/templates/trains.html:14
+msgid "Just a moment! We are fetching the freshest data just for you..."
+msgstr "請稍候！ 我們正在為您載入最新的數據..."
+
+#: src/simrail_train_scanner/templates/trains.html:29
+#: src/simrail_train_scanner/templates/trains.html:40
+#: src/simrail_train_scanner/templates/trains.html:51
+msgid "Any"
+msgstr "全部"
+
+#: src/simrail_train_scanner/templates/trains.html:31
+msgid "Passenger"
+msgstr "客運"
+
+#: src/simrail_train_scanner/templates/trains.html:33
+msgid "Freight"
+msgstr "貨運"
+
+#: src/simrail_train_scanner/templates/trains.html:42
+msgid "Classic"
+msgstr "經典車"
+
+#: src/simrail_train_scanner/templates/trains.html:44
+msgid "Modern"
+msgstr "現代車"
+
+#: src/simrail_train_scanner/templates/trains.html:53
+msgid "Stationary"
+msgstr "靜止"
+
+#: src/simrail_train_scanner/templates/trains.html:55
+msgid "In Motion"
+msgstr "移動"
+
+#: src/simrail_train_scanner/templates/trains.html:87
+msgid "Download Train Documents"
+msgstr "下載車次文件"
+
+#: src/simrail_train_scanner/templates/trains.html:159
+msgid "Coming soon"
+msgstr "即將到來"
+
+#: src/simrail_train_scanner/templates/trains.html:164
+msgid "Fetching latest information. It might take up to 1 minute."
+msgstr "正在處理最新資料。 可能需要最長1分鐘。"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:5
+msgid "Order issued at:"
+msgstr "指令發布於:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:7
+msgid "station:"
+msgstr "車站:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:14
+msgid "issuer's signature"
+msgstr "發布人簽名"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+msgid "Written Order"
+msgstr "運輸指令"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+#: src/simrail_train_scanner/templates/rows/r307_header.html:3
+msgid "for train no."
+msgstr "車次"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:1
+msgid "Written Order \"O\" No."
+msgstr "運輸指令\"O\"編號"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:4
+msgid "on"
+msgstr "於"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:5
+msgid "for the section of"
+msgstr "的運行區間"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:8
+msgid "from station:"
+msgstr "始發站:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:12
+msgid "to station:"
+msgstr "終點站:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:17
+msgid "via:"
+msgstr "經由:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:27
+msgid "slow down and exercise extra caution (Vmax km/h)"
+msgstr "減速並注意前方(注意限速)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:28
+msgid "exercise extra caution (e.c.)"
+msgstr "注意前方"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:33
+msgid "#"
+msgstr "#"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:34
+msgid "Line"
+msgstr "路線編號"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:37
+msgid "At post (section)"
+msgstr "車站(區間)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:38
+msgid "Due to"
+msgstr "原因"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:41
+msgid "Track No."
+msgstr "股道號"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:44
+msgid "From m.p."
+msgstr "起始里程"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:45
+msgid "From hour"
+msgstr "起始時間"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:48
+msgid "Till m.p."
+msgstr "結束里程"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:49
+msgid "Till hour"
+msgstr "結束時間"
+
+#: src/simrail_train_scanner/templates/rows/r307_no_warnings.html:3
+msgid "No warnings"
+msgstr "無警告"
+
+msgid "Timetables for SimRail."
+msgstr "SimRail時刻表"
+
+msgid "Listing of available trains."
+msgstr "可駕駛車次列表"
+
+msgid "All rights reserved."
+msgstr "版權所有"
+
+msgid "Not affiliated with SimRail S.A."
+msgstr "本站不隸屬於SimRail S.A.。"
+
+msgid "Train Formation Card"
+msgstr "車輛資訊卡"
+
+msgid "Rail vehicle receipt confirmation"
+msgstr "車輛簽收確認單"
+
+msgid "Train number"
+msgstr "車次"
+
+msgid "From station"
+msgstr "始發站"
+
+msgid "To station"
+msgstr "終點站"
+
+msgid "Country of Registration"
+msgstr "註冊國"
+
+msgid "Rail Vehicle Owner"
+msgstr "車輛歸屬"
+
+msgid "Type (class)"
+msgstr "種別"
+
+msgid "Vehicle Owner's Number"
+msgstr "擁有者編號"
+
+msgid "Vehicle Length"
+msgstr "車輛長度"
+
+msgid "Load Weight"
+msgstr "載重"
+
+msgid "Own Weight"
+msgstr "自重"
+
+msgid "inspected by"
+msgstr "檢驗人"
+
+msgid "Hauling"
+msgstr "拖車輛數"
+
+msgid "Net"
+msgstr "淨重"
+
+msgid "List of vehicles in train formation"
+msgstr "列車編組"
+
+msgid "Gross"
+msgstr "毛重"
+
+msgid "Vehicle"
+msgstr "機車"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Length"
+msgstr "長度"
+
+msgid "Br.sett."
+msgstr "煞車反映"
+
+msgid "Route:"
+msgstr "運行路線："
+
+msgid "Traction vehicles:"
+msgstr "機車："
+
+msgid "Hauled stock:"
+msgstr "拖車："
+
+msgid "Train length:"
+msgstr "列車長度："
+
+msgid "Train weight:"
+msgstr "牽引重量："
+
+msgid "Other documents"
+msgstr "其它文件"
+
+msgid ""
+"The Train Formation Card contains detailed information about the consist of "
+"your train, including vehicle types, numbers, lenghts and weights."
+msgstr "車輛資訊卡包含車輛的基本訊息，包括機車種類、車次、車輛長度和牽引重量。"
+
+msgid "PDF R7"
+msgstr "PDF R7"

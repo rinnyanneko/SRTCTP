@@ -1,0 +1,64 @@
+
+
+LiniaKolejowaNr1Desc=1號線連接華沙和卡托維茲,全長 <km>316</km>,最高運行速度<kmph>160</kmph>.
+1_KatowiceWarszawa_3EIJ4500=駕駛快速旅客列車從卡托維茲前往華沙。
+#Sceneries
+DemoSceneryName=教學任務
+DemoSceneryDescription=遊玩教學任務.
+KatowiceWarszawa=卡托維茲 - 華沙
+KWKStaszicSedziszow=卡托維茲 - 森濟舒夫
+
+#Scenarios
+Tutorial_scenario=教學
+LiniaKolejowaNr1=1號線
+LiniaKolejowaNr171=171號線
+LinieKolejoweNr4_171=1/62/171號線
+1_KatowiceWarszawa_5MPE14103=駕駛旅客列車從華沙前往卡托維茲。
+Tutorial2_Desc=駕駛旅客列車從扎維爾切前往卡托維茲。
+1_KatowiceWarszawa_6ROJ40614=駕駛旅客列車從卡托維茲前往扎維爾切。
+LiniaKolejowaNr171Desc=從波蘭重要工業區--上西利西亞出發的重要煤炭出口幹線,限速從<kmph>30</kmph> 到 <kmph>120</kmph>不等.
+Tutorial_scenario_desc=您將駕駛22WE電聯車,從棟布羅瓦古爾尼恰 宗布科維采出發,前往本津.
+1_KatowiceWarszawa_4EIJ1401=駕駛快速旅客列車從華沙前往卡托維茲。
+2_StaszicSedziszow_4ROJ24909=駕駛旅客列車從森濟舒夫前往卡托維茲。
+2_StaszicSedziszow_5ROJ42900=駕駛旅客列車從卡托維茲前往森濟舒夫。
+2_StaszicSedziszow_6ROJ245001=駕駛貨物列車從森濟舒夫前往卡托維茲穆霍維茨煤礦。
+day_scenario_desc=您將在不同的時刻下,再次體驗宗布科維采-本津的旅程(不含教學).
+
+#Scenarios
+day_scenario=棟布羅瓦古爾尼恰 宗布科維茨-本津
+
+#Scenarios
+cargo_scenario=斯塔希茨煤礦-索斯諾維芝 丹杜夫卡
+cargo_scenario_desc=駕駛414018次貨運列車體驗斯塔希茨煤礦-索斯諾維芝 丹杜夫卡的線路.
+Tutorial34WE=教學34WE
+TutorialEU07=教學EU07
+TutorialE186=教學E186
+LineNo171_62=171/62號線
+Lineno62_1=62/1號線
+Lineno1_4=1/4號線
+Tutorial22WE=教學22WE
+TutorialEN57=EN57教學
+TutorialET22=ET22 電力機車教程
+TrainingTrackZmigrod=日米格魯德實驗線路
+ETCS_training_scenarios=ETCS 教學任務
+ETCS_training_scenario_scenery_description=進入現代鐵路交通控制系統的世界 - 了解 ETCS 1 級和 2 級的操作。
+ETCSZmigrod_SceneryNameTextL1=ETCS L1 級教學任務
+ETCSZmigrod_SceneryDescriptionL1=在本教學任務中，您將學習如何在 ETCS 1 級的監督下駕駛 ED250 高速電聯車。您將學習如何啟動系統、輸入列車數據，以及在常規和特殊情況下（如鐵路交通控制設備故障）按照系統指令駕駛列車。在開始任務之前，您必須熟練操作未開啟 ETCS 系統的 ED250 列車，並牢牢掌握駕駛和煞車技術。
+ETCSZmigrod_SceneryNameTextL2=ETCS L2 級教學任務
+ETCSZmigrod_SceneryDescriptionL2=在本教學任務中，您將學習如何在 ETCS 2 級的監督下駕駛 ED250 高速電聯車。您將學習如何啟動系統、輸入列車數據，以及在常規和特殊情況下（如鐵路交通控制設備故障）按照系統指令駕駛列車。在開始任務之前，您必須熟練操作未開啟 ETCS 系統的 ED250 列車，並牢牢掌握駕駛和煞車技術。
+LiniaKolejowaNr8i133=8、133號線
+LiniaKolejowaNr8=8號線
+LiniaKolejowaNr8Desc=透過在8號線行駛來遊覽小波蘭省的中心。
+KrakowScenario_Tlk_Starz_Krk=中途接手 波茲南 - 克拉科夫 的 TLK 列車\n\n路線：斯塔基尼 -> 克拉科夫總站（91 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+The80sScenery=卡托維茲 - 森濟舒夫 1980年代
+Scenario_Ty2Tutorial=Ty2 蒸汽機車教程
+Scenario_Ty2TutorialDesc=駕駛由 Ty2 蒸汽機車作為本務的 4365 次貨運列車，並學習如何進行駕駛或司爐操作。
+LiniaKolejowaNr8i133Desc=透過在8號線與133號線行駛來遊覽小波蘭省的中心地帶。
+KrakowScenario_EIP_Krk_Wwa=駕駛高速電聯車行駛 克拉科夫總站 - 格丁尼亞總站 路線的一部分\n\n路線：克拉科夫總站 -> 華沙東（297 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_SKA2_Krk_Sedz=駕駛克拉科夫城鐵列車。\n\n路線：克拉科夫總站 -> 森濟舒夫（69 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_SKA2_Sedz_Krk=駕駛克拉科夫城鐵列車。\n\n路線：克拉科夫總站 -> 森濟舒夫（69 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_IR_Krk_Wol=區域快線列車\n\n路線：克拉科夫總站 -> 科茲沃夫 -> 奧爾庫什（108 km）\n時間：下午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_Tlk_Kato_Krk=中途接手 鹿山城 - 克拉科夫 的 TLK 列車\n\n路線：卡托維茲 -> 科茲沃夫 -> 克拉科夫總站（153 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_IC_Krk_Sedz=駕駛 扎科帕內 - 華沙東 城際列車的其中一段\n\n路線：克拉科夫總站 -> 森濟舒夫（69 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_EIP_Wwa_Krk=駕駛高速電聯車行駛 華沙東 - 克拉科夫總站 線路\n\n路線：華沙東 -> 克拉科夫總站（297 km）\n時間：上午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
+KrakowScenario_Tow_Krk_Sedz=駕駛貨運列車（3200噸，約525 m）由克拉科夫前往森濟舒夫。\n\n線：克拉科夫 格熱古日基區 -> 克拉科夫總站KGA-> 森濟舒夫（71 km）\n時間： 下午\n天氣：夏季晴天 / 秋季下雨 / 冬季下雪
