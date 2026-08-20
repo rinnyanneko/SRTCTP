@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Railroad lines no. 4, 171</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Lignes de chemin de fer no. 4, 171</term></tig></langSet>
+                <note from="translator">Text in Polish on the untranslated line instead of English</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OPIS MISJI DZIENNEJ PO ANGIELSKU BO NIE BYLO</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Description de la mission du jour en Anglais car il n'y avait pas de</term></tig></langSet>
+                <descrip>Line in the English part marked in Polish</descrip>
+            </termEntry>
+        </body>
+    </text>
+</martif>

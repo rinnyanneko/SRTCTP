@@ -1,0 +1,64 @@
+
+
+#Sceneries
+DemoSceneryName=Scenario Demo
+DemoSceneryDescription=Inizia lo scenario di esercitazione.
+KatowiceWarszawa=Katowice - Varsavia
+KWKStaszicSedziszow=Katowice - Sedziszow
+LiniaKolejowaNr1=Linea ferroviaria n. 1
+LiniaKolejowaNr171=Linea ferroviaria n. 171
+LinieKolejoweNr4_171=Linee ferroviarie n. 1, 62, 171
+LiniaKolejowaNr1Desc=La linea ferroviaria n. 1 è lunga <km>316</km>, e va da Varsavia a Katowice. La velocità massima su questa linea è <kmph>160</kmph>.
+LiniaKolejowaNr171Desc=Una delle principali linee di esportazione di carbone dell'Alta Slesia - la parte più industrializzata della Polonia. La velocità massima sulle tratte varia da <kmph>30</kmph> a <kmph>120</kmph>.
+
+#Scenarios
+Tutorial_scenario=Tutorial
+Tutorial_scenario_desc=In questo scenario si imparerà a condurre il 22WE, popolarmente conosciuto come "Elf", dalla stazione di Dąbrowa Górnicza Ząbkowice fino a Będzin.
+
+#Scenarios
+day_scenario=Dabrowa Gornicza Zabkowice - Bedzin
+day_scenario_desc=Conduci il treno sulla tratta Ząbkowice - Będzin di nuovo, in diversi momenti della giornata (non contiene tutorial).
+
+#Scenarios
+cargo_scenario=KWK Staszic - Sosnowiec Dandowka
+cargo_scenario_desc=Conduci il treno merci 414018 sulla tratta KWK Staszic - Sosnowiec Dańdówka.
+1_KatowiceWarszawa_4EIJ1401=Conduci il treno viaggiatori espresso da Varsavia a Katowice.
+1_KatowiceWarszawa_5MPE14103=Conduci il treno viaggiatori da Varsavia a Katowice.
+1_KatowiceWarszawa_3EIJ4500=Conduci il treno viaggiatori espresso da Katowice a Varsavia.
+2_StaszicSedziszow_5ROJ42900=Conduci il treno viaggiatori da Katowice a Sędziszów.
+Tutorial2_Desc=Conduci il treno viaggiatori da Zawiercie a Katowice.
+2_StaszicSedziszow_6ROJ245001=Conduci il treno merci da Sędziszów a KWK Staszic.
+1_KatowiceWarszawa_6ROJ40614=Conduci il treno viaggiatori da Katowice a Zawiercie.
+2_StaszicSedziszow_4ROJ24909=Conduci il treno viaggiatori da Sędziszów a Katowice.
+Tutorial34WE=Tutorial 34WE
+TutorialEU07=Tutorial EU07
+TutorialE186=Tutorial E186
+LineNo171_62=Linea nr. 171, 62
+Lineno62_1=Linea nr. 62, 1
+Lineno1_4=Linea nr. 1, 4
+Tutorial22WE=Tutorial 22WE
+TutorialEN57=Tutorial EN57
+TutorialET22=Tutorial ET22
+TrainingTrackZmigrod=Scenario di esercitazione - Żmigród
+ETCS_training_scenarios=Scenari di formazione ETCS
+ETCS_training_scenario_scenery_description=Entra nel mondo dei moderni sistemi di controllo del traffico ferroviario: scopri il funzionamento dell'ETCS - livello 1 e 2.
+ETCSZmigrod_SceneryNameTextL1=Scenario di formazione ETCS livello 1
+ETCSZmigrod_SceneryDescriptionL1=In questo scenario imparete come guidare un treno ad alta velocità ED250 sotto la supervisione di ETCS di livello 1. Imparete come inizializzare il sistema, inserire i dati del treno e guidare il treno seguendo le indicazioni del sistema in situazioni normali e in situazioni eccezionali. Prima di iniziare lo scenario, devi essere esperto nella guida di un treno ED250 senza il sistema ETCS, con una solida conoscenza delle tecniche di guida e frenata.
+ETCSZmigrod_SceneryNameTextL2=Scenario di formazione ETCS livello 2
+ETCSZmigrod_SceneryDescriptionL2=In questo scenario imparete come guidare un treno ad alta velocità ED250 sotto la supervisione di ETCS di livello 2. Imparete come inizializzare il sistema, inserire i dati del treno e guidare il treno seguendo le indicazioni del sistema in situazioni normali e in situazioni eccezionali. Prima di iniziare lo scenario, devi essere esperto nella guida di un treno ED250 senza il sistema ETCS, con una solida conoscenza delle tecniche di guida e frenata.
+The80sScenery=Katowice - Sędziszów Anni 80
+LiniaKolejowaNr8i133Desc=Visita il cuore del Voivodato della Piccola Polonia con la ferrovia numero 8 e 133.
+Scenario_Ty2Tutorial=[Ty2] Tutorial merci
+Scenario_Ty2TutorialDesc=Conduci la Ty2 con il treno merci 4365 scegliendo il ruolo da macchinista o fuochista.
+LiniaKolejowaNr8i133=Linea n. 8, 133
+LiniaKolejowaNr8=Ferrovia n 8
+LiniaKolejowaNr8Desc=Visita il cuore del Voivodato della Piccola Polonia con la ferrovia numero 8.
+KrakowScenario_Tlk_Starz_Krk=Treno TLK sulla tratta Poznań - Cracovia\n\nPercorso: Starzyny -> Cracovia Główny (91 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_SKA2_Krk_Sedz=Il treno veloce metropolitano di Cracovia.\n\nPercorso: Cracovia Główny -> Sędziszów (69 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_SKA2_Sedz_Krk=Il treno veloce metropolitano di Cracovia.\n\nPercorso: Sędziszów -> Kraków Główny (69 km)\nOrario del giorno: Pomeriggio\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_IR_Krk_Wol=Treno InterRegio\n\nPercorso: Cracovia Glowny -> Kozlow -> Olkusz (108 km)\nOra del giorno: Pomeriggio\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_Tlk_Kato_Krk=Trasporto di carrozze dal treno TLK Jelenia Góra - Cracovia\n\nPercorso: Katowice -> Kozłów -> Kraków Główny (153 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_IC_Krk_Sedz=Treno InterCity sulla tratta Zakopane - Warszawa Wschodnia\n\nPercorso: Cracovia Główny -> Sędziszów (69 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_EIP_Krk_Wwa=Treno InterCity Premium sulla tratta Cracovia Główny - Gdynia Główna\n\nPercorso: Cracovia Główny -> Warszawa Wschodnia (297 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_EIP_Wwa_Krk=Treno InterCity Premium sulla tratta Warszawa Wschodnia - Kraków Główny.\n\nPercorso: Varsavia Wschodnia -> Cracovia Glowny (297 km)\nOra del giorno: Mattina\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso
+KrakowScenario_Tow_Krk_Sedz=Treno merci (3200t, ~525m) sulla tratta da Kraków Główny KGA a Sędziszów.\n\nPercorso: Cracovia Grzegórzki -> Cracovia Główny KGA -> Sędziszów (71 km)\nOra del giorno: Pomeriggio\nTempo: Cielo sereno, Estate / Autunno piovoso / Inverno nevoso

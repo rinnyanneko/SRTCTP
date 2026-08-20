@@ -34,7 +34,7 @@ msgstr "是"
 
 #: ../DMI/window/data_entry.cpp:62
 msgid " entry complete?"
-msgstr " 確認數據?"
+msgstr " 確認資料?"
 
 #: ../DMI/window/driver_id.cpp:16
 msgid "TRN"
@@ -95,7 +95,7 @@ msgstr "恢復調車"
 
 #: ../DMI/window/menu_main.cpp:48
 msgid "Radio data"
-msgstr "通訊數據"
+msgstr "通訊資料"
 
 #: ../DMI/window/menu_main.cpp:53
 msgid "Continue in SM"

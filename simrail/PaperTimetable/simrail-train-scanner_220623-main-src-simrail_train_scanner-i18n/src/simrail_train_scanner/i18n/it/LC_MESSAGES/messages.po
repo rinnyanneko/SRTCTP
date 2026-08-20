@@ -1,0 +1,614 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-17 13:12+0200\n"
+"PO-Revision-Date: 2024-11-21 14:37+0000\n"
+"Last-Translator: \"alegalga98 (Italian team)\" <alessandro.galgano98@gmail."
+"com>\n"
+"Language-Team: Italian <https://sts.simkol.pl:18443/projects/simrail/"
+"PaperTimetable/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: src/simrail_train_scanner/api/requests_responses.py:34
+msgid "Ready to display."
+msgstr "Pronto per la visione"
+
+#: src/simrail_train_scanner/api/requests_responses.py:36
+msgid "Your request is now being process. Won't be long."
+msgstr "La richiesta è in fase di elaborazione. Non ci vorrà molto."
+
+#: src/simrail_train_scanner/api/requests_responses.py:38
+msgid "Your request has been scheduled for processing. Bear with us!"
+msgstr "La richiesta è stata inserita per l'elaborazione. Rimani con noi!"
+
+#: src/simrail_train_scanner/api/requests_responses.py:39
+msgid "Your request is in an unknown state. Try again."
+msgstr "La richiesta è in uno stato sconosciuto. Riprovare."
+
+#: src/simrail_train_scanner/database/operational_warnings.py:59
+msgid "Unsettled ballast"
+msgstr "Massicciata instabile"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:70
+#: src/simrail_train_scanner/database/operational_warnings.py:91
+#: src/simrail_train_scanner/database/operational_warnings.py:122
+msgid "Poor condition of the viaduct"
+msgstr "Cattive condizioni del viadotto"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:81
+msgid "No staff at level crossing"
+msgstr "Passaggio a livello senza personale"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:102
+#: src/simrail_train_scanner/database/operational_warnings.py:132
+#: src/simrail_train_scanner/database/operational_warnings.py:143
+msgid "Poor condition of the switch"
+msgstr "Cattive condizioni del deviatoio"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:112
+msgid "Poor condition of the track"
+msgstr "Cattive condizioni dei binari"
+
+#: src/simrail_train_scanner/templates/base.html:27
+msgid "Logged in as"
+msgstr "Collegato come"
+
+#: src/simrail_train_scanner/templates/choose_train.html:7
+msgid "Choose train to generate Documents for"
+msgstr "Scegliere il treno per generare i documenti"
+
+#: src/simrail_train_scanner/templates/choose_train.html:15
+msgid "Enter train number"
+msgstr "Inserire numero del treno"
+
+#: src/simrail_train_scanner/templates/continuous_timetable.html:4
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:6
+#: src/simrail_train_scanner/templates/timetable_element.html:6
+#: src/simrail_train_scanner/templates/timetable_printable.html:6
+msgid "Route"
+msgstr "Tratta"
+
+#: src/simrail_train_scanner/templates/home.html:3
+msgid "Printable Timetables for Simrail simulator and more"
+msgstr "Versione stampabile degli orari per Simrail"
+
+#: src/simrail_train_scanner/templates/home.html:10
+msgid "New!"
+msgstr "Nuovo!"
+
+#: src/simrail_train_scanner/templates/home.html:11
+msgid "Timetables and Warnings"
+msgstr "Orari e avvisi"
+
+#: src/simrail_train_scanner/templates/home.html:12
+msgid ""
+"Access timetables and warnings for all Simrail trains. Available in "
+"printer-friendly, e-ink friendly and mobile friendly formats."
+msgstr ""
+"Accesso ai documenti di Simrail per tutti i treni. Disponibili in formato "
+"stampabile, e-ink e mobile."
+
+#: src/simrail_train_scanner/templates/home.html:13
+msgid "Get documents"
+msgstr "Vai ai documenti"
+
+#: src/simrail_train_scanner/templates/home.html:18
+msgid "Trains to drive"
+msgstr "Treni da condurre"
+
+#: src/simrail_train_scanner/templates/home.html:19
+msgid "Pick a train to drive across all servers."
+msgstr "Scegliere un treno da condurre su tutti i server."
+
+#: src/simrail_train_scanner/templates/home.html:20
+msgid "Drive a train"
+msgstr "Scelta di un treno"
+
+#: src/simrail_train_scanner/templates/login.html:3
+#: src/simrail_train_scanner/templates/login.html:10
+msgid "Log In"
+msgstr "Accesso"
+
+#: src/simrail_train_scanner/templates/login.html:12
+msgid "You must be logged in to view this section of the website."
+msgstr "Serve effettuare l'accesso per vedere questa sezione del sito web."
+
+#: src/simrail_train_scanner/templates/r307_printable.html:6
+msgid "\"O\" written order"
+msgstr "Ordine scritto \"O\""
+
+#: src/simrail_train_scanner/templates/r307_printable.html:7
+msgid "for train No."
+msgstr "Per treno n."
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:6
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:20
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:21
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:22
+#: src/simrail_train_scanner/templates/timetable_element.html:20
+#: src/simrail_train_scanner/templates/timetable_element.html:21
+#: src/simrail_train_scanner/templates/timetable_element.html:22
+msgid "Loco"
+msgstr "Loco"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:7
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:25
+#: src/simrail_train_scanner/templates/timetable_element.html:25
+msgid "Load"
+msgstr "Carico"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:8
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:26
+#: src/simrail_train_scanner/templates/timetable_element.html:26
+msgid "Tr.len."
+msgstr "Lung."
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:9
+msgid "Vmax"
+msgstr "Vmax"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:15
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:17
+#: src/simrail_train_scanner/templates/timetable_element.html:17
+msgid "Station"
+msgstr "Stazione"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:16
+msgid "Stop"
+msgstr "Fermata"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:17
+msgid "Arr"
+msgstr "Arr"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:18
+msgid "Dep"
+msgstr "Part"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:13
+#: src/simrail_train_scanner/templates/timetable_element.html:13
+msgid "Line number"
+msgstr "Linea numero"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:14
+#: src/simrail_train_scanner/templates/timetable_element.html:14
+msgid "Km"
+msgstr "Km"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:15
+#: src/simrail_train_scanner/templates/timetable_element.html:15
+msgid "V<sub>P</sub>"
+msgstr "V<sub>P</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:16
+#: src/simrail_train_scanner/templates/timetable_element.html:16
+msgid "V<sub>L</sub>"
+msgstr "V<sub>L</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:18
+#: src/simrail_train_scanner/templates/timetable_element.html:18
+msgid "Time"
+msgstr "Ora"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:19
+msgid "Rail Traffic Management Center"
+msgstr "Centro di gestione della circolazione"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:20
+msgid "in Katowice"
+msgstr "A Katowice"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:25
+#: src/simrail_train_scanner/templates/train_documents.html:43
+#: src/simrail_train_scanner/templates/trains.html:86
+msgid "Timetable"
+msgstr "Orario"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:26
+msgid "for train number"
+msgstr "per treno numero"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:27
+msgid "generated by"
+msgstr "generato da"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:30
+msgid "on the"
+msgstr "del"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:31
+msgid "at"
+msgstr "alle"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:37
+msgid "Driver!"
+msgstr "Macchinista!"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:38
+msgid "Use your radio for essential communications only."
+msgstr "Utilizzare la radio solo per comunicazioni relative al traffico."
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:39
+msgid "Do not abuse."
+msgstr "Non abusare della radio!"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:40
+msgid "Respect speed limits when driving."
+msgstr "Rispettare le velocità massime indicate."
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:41
+msgid "They are there for a reason."
+msgstr "Non permettere che ci siano pericoli sulla ferrovia."
+
+#: src/simrail_train_scanner/templates/train_documents.html:3
+#: src/simrail_train_scanner/templates/train_documents.html:9
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:3
+msgid "Documents for train number"
+msgstr "Documenti per il treno numero"
+
+#: src/simrail_train_scanner/templates/train_documents.html:12
+msgid "Train found in the Simrail Express database."
+msgstr "Treno trovato nel database di Simrail Express"
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "This is a"
+msgstr "Questo è un"
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "train from"
+msgstr "Treno da"
+
+#: src/simrail_train_scanner/templates/train_documents.html:15
+msgid "to"
+msgstr "A"
+
+#: src/simrail_train_scanner/templates/train_documents.html:20
+msgid "Some documents might be missing after the latest SimRail release."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:21
+msgid "It shouldn't take too long to add them."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:31
+msgid "Download all Train Documents as a single file"
+msgstr "Scaricare tutti i documenti del treno in un unico file"
+
+#: src/simrail_train_scanner/templates/train_documents.html:34
+msgid "(or download them separately below, if you wish so)"
+msgstr "(o scaricarli separatamente sotto)"
+
+#: src/simrail_train_scanner/templates/train_documents.html:44
+msgid ""
+"Contains information about stations, times and line speeds as well as the"
+" scheduled formation."
+msgstr ""
+"Contiene informazioni sulle stazioni, sugli orari e sulle velocità della "
+"linea percorsa, nonché sulla formazione prevista."
+
+#: src/simrail_train_scanner/templates/train_documents.html:45
+msgid "Continuous timetable"
+msgstr "Orario continuo"
+
+#: src/simrail_train_scanner/templates/train_documents.html:48
+msgid ""
+"\n"
+"            Choose the Continuous timetable if you want to display it on "
+"your monitor or mobile device.\n"
+"            No pagination.\n"
+"            "
+msgstr ""
+"Scegliere l'orario continuo se si vuole visualizzarlo sul monitor o "
+"dispositivo mobile. Nessuna paginazione."
+
+#: src/simrail_train_scanner/templates/train_documents.html:53
+msgid "PDF timetable"
+msgstr "Orario PDF"
+
+#: src/simrail_train_scanner/templates/train_documents.html:56
+msgid ""
+"\n"
+"            Choose the PDF timetable if you want to print it out or "
+"display on an e-Ink device.\n"
+"            "
+msgstr ""
+"Scegliere l'orario in PDF se si vuole stamparlo o visualizzarlo su un "
+"dispositivo e-Ink."
+
+#: src/simrail_train_scanner/templates/train_documents.html:67
+msgid "Warnings"
+msgstr "Avvertimenti"
+
+#: src/simrail_train_scanner/templates/train_documents.html:69
+msgid ""
+"The Written Order O also known as R307 contains information about "
+"temporary speed restrictions."
+msgstr ""
+"L'ordine scritto O anche chiamato R307 contiene informazioni riguardanti "
+"limitazioni di velocità temporanee."
+
+#: src/simrail_train_scanner/templates/train_documents.html:70
+msgid "PDF R307"
+msgstr "PDF R307"
+
+#: src/simrail_train_scanner/templates/train_documents.html:73
+msgid ""
+"\n"
+"            This feature is currently available in beta. There might be "
+"missing restrictions and other inaccuracies.\n"
+"            "
+msgstr ""
+"Questa funzione è attualmente disponibile in versione beta. Potrebbero "
+"mancare restrizioni e altre imprecisioni."
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:9
+msgid "No such train"
+msgstr "Nessun treno di questo tipo"
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:17
+msgid "Train with such a number does not exist in the Simrail Express database."
+msgstr "Un treno con questo numero non esiste nel database Simrail Express."
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:18
+msgid "Try again?"
+msgstr "Provare di nuovo?"
+
+#: src/simrail_train_scanner/templates/trains.html:3
+#: src/simrail_train_scanner/templates/trains.html:9
+msgid "Trains available for driving"
+msgstr "Treni disponibili tra cui scegliere"
+
+#: src/simrail_train_scanner/templates/trains.html:14
+msgid "Just a moment! We are fetching the freshest data just for you..."
+msgstr "Aspettare un attimo! Si stanno scaricando gli ultimi dati..."
+
+#: src/simrail_train_scanner/templates/trains.html:29
+#: src/simrail_train_scanner/templates/trains.html:40
+#: src/simrail_train_scanner/templates/trains.html:51
+msgid "Any"
+msgstr "Qualunque"
+
+#: src/simrail_train_scanner/templates/trains.html:31
+msgid "Passenger"
+msgstr "Viaggiatori"
+
+#: src/simrail_train_scanner/templates/trains.html:33
+msgid "Freight"
+msgstr "Merci"
+
+#: src/simrail_train_scanner/templates/trains.html:42
+msgid "Classic"
+msgstr "Classici"
+
+#: src/simrail_train_scanner/templates/trains.html:44
+msgid "Modern"
+msgstr "Moderni"
+
+#: src/simrail_train_scanner/templates/trains.html:53
+msgid "Stationary"
+msgstr "Stazionari"
+
+#: src/simrail_train_scanner/templates/trains.html:55
+msgid "In Motion"
+msgstr "In movimento"
+
+#: src/simrail_train_scanner/templates/trains.html:87
+msgid "Download Train Documents"
+msgstr "Scarica i documenti del treno"
+
+#: src/simrail_train_scanner/templates/trains.html:159
+msgid "Coming soon"
+msgstr "Arriverà presto"
+
+#: src/simrail_train_scanner/templates/trains.html:164
+msgid "Fetching latest information. It might take up to 1 minute."
+msgstr "Scaricando gli ultimi dati... può volerci fino a 1 minuto."
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:5
+msgid "Order issued at:"
+msgstr "Ordine emesso a:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:7
+msgid "station:"
+msgstr "stazione:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:14
+msgid "issuer's signature"
+msgstr "Firma dell'emittente"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+msgid "Written Order"
+msgstr "Ordine scritto"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+#: src/simrail_train_scanner/templates/rows/r307_header.html:3
+msgid "for train no."
+msgstr "Per treno n."
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:1
+msgid "Written Order \"O\" No."
+msgstr "Ordine scritto \"O\" n."
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:4
+msgid "on"
+msgstr "giorno"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:5
+msgid "for the section of"
+msgstr "per la sezione di"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:8
+msgid "from station:"
+msgstr "dalla stazione:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:12
+msgid "to station:"
+msgstr "alla stazione:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:17
+msgid "via:"
+msgstr "via:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:27
+msgid "slow down and exercise extra caution (Vmax km/h)"
+msgstr "ridurre la velocità di marcia e usare cautela (Vmax km/h)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:28
+msgid "exercise extra caution (e.c.)"
+msgstr "prestare ulteriore attenzione"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:33
+msgid "#"
+msgstr "#"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:34
+msgid "Line"
+msgstr "Linea"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:37
+msgid "At post (section)"
+msgstr "Alla stazione (sulla linea)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:38
+msgid "Due to"
+msgstr "A causa di"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:41
+msgid "Track No."
+msgstr "Binario n."
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:44
+msgid "From m.p."
+msgstr "dal km"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:45
+msgid "From hour"
+msgstr "dalle ore"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:48
+msgid "Till m.p."
+msgstr "al km"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:49
+msgid "Till hour"
+msgstr "alle ore"
+
+#: src/simrail_train_scanner/templates/rows/r307_no_warnings.html:3
+msgid "No warnings"
+msgstr "Nessun avvertimento"
+
+msgid "Timetables for SimRail."
+msgstr "Orari per SimRail."
+
+msgid "Listing of available trains."
+msgstr "Lista dei treni disponibili."
+
+msgid "All rights reserved."
+msgstr "Tutti i diritti riservati."
+
+msgid "Not affiliated with SimRail S.A."
+msgstr "Non affiliato a SimRail S.A."
+
+msgid "Train Formation Card"
+msgstr "Lista veicoli"
+
+msgid "Rail vehicle receipt confirmation"
+msgstr "Conferma di ricezione del veicolo ferroviario"
+
+msgid "Train number"
+msgstr "Numero del treno"
+
+msgid "From station"
+msgstr "Stazione di partenza"
+
+msgid "To station"
+msgstr "Stazione di arrivo"
+
+msgid "Country of Registration"
+msgstr "Paese di registrazione"
+
+msgid "Rail Vehicle Owner"
+msgstr "Proprietario"
+
+msgid "Type (class)"
+msgstr "Classe"
+
+msgid "Vehicle Owner's Number"
+msgstr "Numero del veicolo"
+
+msgid "Vehicle Length"
+msgstr "Lunghezza dai respingenti"
+
+msgid "Load Weight"
+msgstr "Massa del carico"
+
+msgid "Own Weight"
+msgstr "Tara"
+
+msgid "Hauling"
+msgstr "Trasporto"
+
+msgid "Net"
+msgstr "Netto"
+
+msgid "inspected by"
+msgstr "controllato da"
+
+msgid "List of vehicles in train formation"
+msgstr "Lista veicoli"
+
+msgid "Gross"
+msgstr "Lordo"
+
+msgid "Vehicle"
+msgstr "Veicolo"
+
+msgid "Weight"
+msgstr "Massa"
+
+msgid "Br.sett."
+msgstr "Freno"
+
+msgid "Length"
+msgstr "Lunghezza"
+
+msgid "Route:"
+msgstr "Tratta:"
+
+msgid "Traction vehicles:"
+msgstr "Mezzi di trazione:"
+
+msgid "Hauled stock:"
+msgstr "Materiale rimorchiato:"
+
+msgid "Train length:"
+msgstr "Lunghezza del treno:"
+
+msgid "Train weight:"
+msgstr "Massa totale:"
+
+msgid "Other documents"
+msgstr "Altri documenti"
+
+msgid ""
+"The Train Formation Card contains detailed information about the consist of "
+"your train, including vehicle types, numbers, lenghts and weights."
+msgstr ""
+"La scheda di composizione fornisce informazioni dettagliate riguardanti i "
+"veicoli che compongono il treno, compresi i tipi, i numeri, la lunghezza e "
+"il peso di ciascuno."
+
+msgid "PDF R7"
+msgstr "PDF R7"

@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-09 11:03+0100\n"
+"PO-Revision-Date: 2024-02-12 07:07+0000\n"
+"Last-Translator: \"PapisCZE  (Czech Team)\" <r.papacek@gmail.com>\n"
+"Language-Team: Czech <https://sts.simkol.pl:18443/projects/simrail/etcs-dmi/"
+"cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.2\n"
+"X-Poedit-Basepath: ../../DMI\n"
+"X-Poedit-KeywordsList: get_text;get_text_context:1c,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../DMI/window/brightness.cpp:13 ../DMI/window/menu_settings.cpp:21
+msgid "Brightness"
+msgstr "Jas"
+
+#: ../DMI/window/data_entry.cpp:16 ../DMI/window/data_entry.cpp:17
+#: ../DMI/window/data_validation.cpp:19 ../DMI/window/keyboard.cpp:250
+#: ../DMI/window/keyboard.cpp:257 ../DMI/window/track_ahead_free.cpp:27
+msgid "Yes"
+msgstr "Ano"
+
+#: ../DMI/window/data_entry.cpp:62
+msgid " entry complete?"
+msgstr " zadání dokončeno?"
+
+#: ../DMI/window/driver_id.cpp:16
+msgid "TRN"
+msgstr "TRN"
+
+#: ../DMI/window/fixed_train_data.cpp:15 ../DMI/window/fixed_train_data.cpp:19
+#: ../DMI/window/fixed_train_data.cpp:25
+msgid ""
+"Enter\n"
+"data"
+msgstr ""
+"Zadání\n"
+"dat"
+
+#: ../DMI/window/keyboard.cpp:249 ../DMI/window/keyboard.cpp:253
+msgid "No"
+msgstr "Ne"
+
+#: ../DMI/window/menu_main.cpp:20
+msgid "Main"
+msgstr "Hlavní"
+
+#: ../DMI/window/menu_main.cpp:22
+msgid "Start"
+msgstr "Start"
+
+#: ../DMI/window/menu_main.cpp:26
+msgid "Driver ID"
+msgstr "Číslo strojvedoucího"
+
+#: ../DMI/window/menu_main.cpp:30
+msgid "Train Data"
+msgstr "Vlaková data"
+
+#: ../DMI/window/menu_main.cpp:34
+msgid "Level"
+msgstr "Úroveň"
+
+#: ../DMI/window/menu_main.cpp:38
+msgid "Train running number"
+msgstr "Číslo vlaku"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Exit Shunting"
+msgstr "Konec posunu"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Shunting"
+msgstr "Posun"
+
+#: ../DMI/window/menu_main.cpp:46
+msgid "Non-Leading"
+msgstr "Nevedoucí"
+
+#: ../DMI/window/menu_main.cpp:47
+msgid "Maintain shunting"
+msgstr "Zachování posunu"
+
+#: ../DMI/window/menu_main.cpp:48
+msgid "Radio data"
+msgstr "Data RBC"
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Continue in SM"
+msgstr "Pokračovat v SM"
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Initiate SM"
+msgstr "Inicializovat SM"
+
+#: ../DMI/window/menu_main.cpp:57
+msgid "Exit SM"
+msgstr "Konec SM"
+
+#: ../DMI/window/menu_ntc.cpp:11
+msgid "NTC data entry"
+msgstr "Zadání dat NTC"
+
+#: ../DMI/window/menu_ntc.cpp:20
+msgid "End of data entry"
+msgstr "Konec zadání dat"
+
+#: ../DMI/window/menu_override.cpp:12
+msgid "Override"
+msgstr "Přepsat"
+
+#: ../DMI/window/menu_override.cpp:14
+msgid "EoA"
+msgstr "EoA"
+
+#: ../DMI/window/menu_radio.cpp:18
+msgid "RBC data"
+msgstr "Zadat data RBC"
+
+#: ../DMI/window/menu_radio.cpp:20
+msgid "Contact last RBC"
+msgstr "Kontaktovat poslední RBC"
+
+#: ../DMI/window/menu_radio.cpp:24
+msgid "Use short number"
+msgstr "Použít krátké číslo"
+
+#: ../DMI/window/menu_radio.cpp:28
+msgid "Enter RBC data"
+msgstr "Zadat data RBC"
+
+#: ../DMI/window/menu_radio.cpp:32
+msgid "Radio Network ID"
+msgstr "Číslo rádiové sítě"
+
+#: ../DMI/window/menu_settings.cpp:11
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../DMI/window/menu_settings.cpp:13
+msgid "Language"
+msgstr "Jazyk"
+
+#: ../DMI/window/menu_settings.cpp:17 ../DMI/window/volume.cpp:13
+msgid "Volume"
+msgstr "Hlasitost"
+
+#: ../DMI/window/menu_settings.cpp:25
+msgid "System version"
+msgstr "Systémová verze"
+
+#: ../DMI/window/menu_settings.cpp:29
+msgid "Set VBC"
+msgstr "Nastavit VBC"
+
+#: ../DMI/window/menu_settings.cpp:33
+msgid "Remove VBC"
+msgstr "Odstranit VBC"
+
+#: ../DMI/window/menu_spec.cpp:11
+msgid "Special"
+msgstr "Speciální"
+
+#: ../DMI/window/menu_spec.cpp:13
+msgid "Adhesion"
+msgstr "Adheze"
+
+#: ../DMI/window/menu_spec.cpp:17
+msgid "SR Speed/Distance"
+msgstr "SR Rychlost/vzdálenost"
+
+#: ../DMI/window/menu_spec.cpp:21
+msgid "Train integrity"
+msgstr "Integrita vlaku"
+
+#: ../DMI/window/menu_spec.cpp:26
+msgid "BMM reaction inhibition"
+msgstr "Potlačení reakce BMM"
+
+#: ../DMI/window/train_data.cpp:14 ../DMI/window/train_data.cpp:18
+#: ../DMI/window/train_data.cpp:24
+msgid ""
+"Select\n"
+"type"
+msgstr ""
+"Vybrat\n"
+"typ"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Main"
+#~ msgstr "Hlavní"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Over-\n"
+#~ "ride"
+#~ msgstr ""
+#~ "Potla-\n"
+#~ "čení"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Data\n"
+#~ "view"
+#~ msgstr ""
+#~ "Prohl.\n"
+#~ "dat"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Spec"
+#~ msgstr "Spec"
+
+#~ msgid "DEL"
+#~ msgstr "DEL"

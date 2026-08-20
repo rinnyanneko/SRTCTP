@@ -1,0 +1,614 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-17 13:12+0200\n"
+"PO-Revision-Date: 2024-02-02 09:53+0000\n"
+"Last-Translator: \"PapisCZE  (Czech Team)\" <r.papacek@gmail.com>\n"
+"Language-Team: Czech <https://sts.simkol.pl:18443/projects/simrail/"
+"PaperTimetable/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.2\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: src/simrail_train_scanner/api/requests_responses.py:34
+msgid "Ready to display."
+msgstr "Připraveno k zobrazení."
+
+#: src/simrail_train_scanner/api/requests_responses.py:36
+msgid "Your request is now being process. Won't be long."
+msgstr "Váš požadavek se zpracovává. Počkejte chvíli."
+
+#: src/simrail_train_scanner/api/requests_responses.py:38
+msgid "Your request has been scheduled for processing. Bear with us!"
+msgstr "Váš požadavek byl zařazen ke zpracování. Vydržte s námi!"
+
+#: src/simrail_train_scanner/api/requests_responses.py:39
+msgid "Your request is in an unknown state. Try again."
+msgstr "Váš požadavek je v neznámém stavu. Zkuste to znovu."
+
+#: src/simrail_train_scanner/database/operational_warnings.py:59
+msgid "Unsettled ballast"
+msgstr "Nestabilní železniční spodek"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:70
+#: src/simrail_train_scanner/database/operational_warnings.py:91
+#: src/simrail_train_scanner/database/operational_warnings.py:122
+msgid "Poor condition of the viaduct"
+msgstr "Špatný stav mostu"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:81
+msgid "No staff at level crossing"
+msgstr "Nezabezpečený železniční přejezd"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:102
+#: src/simrail_train_scanner/database/operational_warnings.py:132
+#: src/simrail_train_scanner/database/operational_warnings.py:143
+msgid "Poor condition of the switch"
+msgstr "Špatný stav výhybky"
+
+#: src/simrail_train_scanner/database/operational_warnings.py:112
+msgid "Poor condition of the track"
+msgstr "Špatný stav kolejí"
+
+#: src/simrail_train_scanner/templates/base.html:27
+msgid "Logged in as"
+msgstr "Přihlášen jako"
+
+#: src/simrail_train_scanner/templates/choose_train.html:7
+msgid "Choose train to generate Documents for"
+msgstr "Vyberte vlak pro vygenerování dokumentů"
+
+#: src/simrail_train_scanner/templates/choose_train.html:15
+msgid "Enter train number"
+msgstr "Vložte číslo vlaku"
+
+#: src/simrail_train_scanner/templates/continuous_timetable.html:4
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:6
+#: src/simrail_train_scanner/templates/timetable_element.html:6
+#: src/simrail_train_scanner/templates/timetable_printable.html:6
+msgid "Route"
+msgstr "Trať"
+
+#: src/simrail_train_scanner/templates/home.html:3
+msgid "Printable Timetables for Simrail simulator and more"
+msgstr "Tisknutelná verze jízdních řádů pro SimRail a další"
+
+#: src/simrail_train_scanner/templates/home.html:10
+msgid "New!"
+msgstr "Nové!"
+
+#: src/simrail_train_scanner/templates/home.html:11
+msgid "Timetables and Warnings"
+msgstr "Jízdní řády a výstrahy"
+
+#: src/simrail_train_scanner/templates/home.html:12
+msgid ""
+"Access timetables and warnings for all Simrail trains. Available in "
+"printer-friendly, e-ink friendly and mobile friendly formats."
+msgstr ""
+"Přístup k jízdním řádům a mimořádnostem pro všechny vlaky ve hře SimRail. K "
+"dispozici ve formátech vhodných pro tisk, e-ink a mobilní zařízení."
+
+#: src/simrail_train_scanner/templates/home.html:13
+msgid "Get documents"
+msgstr "Získat dokumenty"
+
+#: src/simrail_train_scanner/templates/home.html:18
+msgid "Trains to drive"
+msgstr "Vlaky k jízdě"
+
+#: src/simrail_train_scanner/templates/home.html:19
+msgid "Pick a train to drive across all servers."
+msgstr "Vyberte vlak k jízdě napříč všemi servery."
+
+#: src/simrail_train_scanner/templates/home.html:20
+msgid "Drive a train"
+msgstr "Zvolit vlak"
+
+#: src/simrail_train_scanner/templates/login.html:3
+#: src/simrail_train_scanner/templates/login.html:10
+msgid "Log In"
+msgstr "Přihlásit se"
+
+#: src/simrail_train_scanner/templates/login.html:12
+msgid "You must be logged in to view this section of the website."
+msgstr "Pro zobrazení této části stránky musíte být přihlášen."
+
+#: src/simrail_train_scanner/templates/r307_printable.html:6
+msgid "\"O\" written order"
+msgstr "Písemný rozkaz \"O\""
+
+#: src/simrail_train_scanner/templates/r307_printable.html:7
+msgid "for train No."
+msgstr "Pro vlak číslo"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:6
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:20
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:21
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:22
+#: src/simrail_train_scanner/templates/timetable_element.html:20
+#: src/simrail_train_scanner/templates/timetable_element.html:21
+#: src/simrail_train_scanner/templates/timetable_element.html:22
+msgid "Loco"
+msgstr "Lok"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:7
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:25
+#: src/simrail_train_scanner/templates/timetable_element.html:25
+msgid "Load"
+msgstr "Náklad"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:8
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:26
+#: src/simrail_train_scanner/templates/timetable_element.html:26
+msgid "Tr.len."
+msgstr "Pro vlak"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:9
+msgid "Vmax"
+msgstr "Vmax"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:15
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:17
+#: src/simrail_train_scanner/templates/timetable_element.html:17
+msgid "Station"
+msgstr "Stanice / zastávka"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:16
+msgid "Stop"
+msgstr "Pobyt"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:17
+msgid "Arr"
+msgstr "Příj."
+
+#: src/simrail_train_scanner/templates/simple_timetable_element.html:18
+msgid "Dep"
+msgstr "Odj."
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:13
+#: src/simrail_train_scanner/templates/timetable_element.html:13
+msgid "Line number"
+msgstr "Číslo tratě"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:14
+#: src/simrail_train_scanner/templates/timetable_element.html:14
+msgid "Km"
+msgstr "Km"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:15
+#: src/simrail_train_scanner/templates/timetable_element.html:15
+msgid "V<sub>P</sub>"
+msgstr "V<sub>P</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:16
+#: src/simrail_train_scanner/templates/timetable_element.html:16
+msgid "V<sub>L</sub>"
+msgstr "V<sub>L</sub>"
+
+#: src/simrail_train_scanner/templates/simple_timetable_element_v2.html:18
+#: src/simrail_train_scanner/templates/timetable_element.html:18
+msgid "Time"
+msgstr "Čas"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:19
+msgid "Rail Traffic Management Center"
+msgstr "Řídicí středisko železniční dopravy"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:20
+msgid "in Katowice"
+msgstr "v Katovicích"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:25
+#: src/simrail_train_scanner/templates/train_documents.html:43
+#: src/simrail_train_scanner/templates/trains.html:86
+msgid "Timetable"
+msgstr "Jízdní řád"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:26
+msgid "for train number"
+msgstr "pro vlak číslo"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:27
+msgid "generated by"
+msgstr "vygenerováno systémem"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:30
+msgid "on the"
+msgstr "dne"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:31
+msgid "at"
+msgstr "v"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:37
+msgid "Driver!"
+msgstr "Strojvedoucí!"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:38
+msgid "Use your radio for essential communications only."
+msgstr "Rádiovou komunikaci používejte pouze pro provozní záležitosti."
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:39
+msgid "Do not abuse."
+msgstr "Nezneužívejte vysílačku!"
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:40
+msgid "Respect speed limits when driving."
+msgstr "Dodržujte uvedené maximální rychlosti."
+
+#: src/simrail_train_scanner/templates/timetable_printable.html:41
+msgid "They are there for a reason."
+msgstr "Neohrožuj bezpečnost železniční dopravy."
+
+#: src/simrail_train_scanner/templates/train_documents.html:3
+#: src/simrail_train_scanner/templates/train_documents.html:9
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:3
+msgid "Documents for train number"
+msgstr "Dokumenty pro vlak číslo"
+
+#: src/simrail_train_scanner/templates/train_documents.html:12
+msgid "Train found in the Simrail Express database."
+msgstr "Vlak nalezen v Simrail Express databázi."
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "This is a"
+msgstr "Jedná se o vlak řízený"
+
+#: src/simrail_train_scanner/templates/train_documents.html:13
+msgid "train from"
+msgstr "Vlak z"
+
+#: src/simrail_train_scanner/templates/train_documents.html:15
+msgid "to"
+msgstr "do"
+
+#: src/simrail_train_scanner/templates/train_documents.html:20
+msgid "Some documents might be missing after the latest SimRail release."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:21
+msgid "It shouldn't take too long to add them."
+msgstr ""
+
+#: src/simrail_train_scanner/templates/train_documents.html:31
+msgid "Download all Train Documents as a single file"
+msgstr "Stáhnout všechny vlakové dokumenty jako jeden soubor"
+
+#: src/simrail_train_scanner/templates/train_documents.html:34
+msgid "(or download them separately below, if you wish so)"
+msgstr "(nebo je stáhnout níže zvlášť)"
+
+#: src/simrail_train_scanner/templates/train_documents.html:44
+msgid ""
+"Contains information about stations, times and line speeds as well as the"
+" scheduled formation."
+msgstr ""
+"Obsahuje informace o stanicích, časech a traťových rychlostech a také o "
+"plánovaném řazení."
+
+#: src/simrail_train_scanner/templates/train_documents.html:45
+msgid "Continuous timetable"
+msgstr "Průběžný jízdní řád"
+
+#: src/simrail_train_scanner/templates/train_documents.html:48
+msgid ""
+"\n"
+"            Choose the Continuous timetable if you want to display it on "
+"your monitor or mobile device.\n"
+"            No pagination.\n"
+"            "
+msgstr ""
+"Pokud chcete jízdní řád zobrazit na monitoru nebo v mobilním zařízení, "
+"vyberte možnost Průběžný jízdní řád. Verze bez stránkování."
+
+#: src/simrail_train_scanner/templates/train_documents.html:53
+msgid "PDF timetable"
+msgstr "PDF verze"
+
+#: src/simrail_train_scanner/templates/train_documents.html:56
+msgid ""
+"\n"
+"            Choose the PDF timetable if you want to print it out or "
+"display on an e-Ink device.\n"
+"            "
+msgstr ""
+"Pokud chcete jízdní řád vytisknout nebo zobrazit na zařízení e-Ink, zvolte "
+"PDF verzi."
+
+#: src/simrail_train_scanner/templates/train_documents.html:67
+msgid "Warnings"
+msgstr "Výstrahy"
+
+#: src/simrail_train_scanner/templates/train_documents.html:69
+msgid ""
+"The Written Order O also known as R307 contains information about "
+"temporary speed restrictions."
+msgstr ""
+"Písemný rozkaz O známý také jako R307 obsahuje informace o dočasných "
+"omezeních rychlosti."
+
+#: src/simrail_train_scanner/templates/train_documents.html:70
+msgid "PDF R307"
+msgstr "PDF R307"
+
+#: src/simrail_train_scanner/templates/train_documents.html:73
+msgid ""
+"\n"
+"            This feature is currently available in beta. There might be "
+"missing restrictions and other inaccuracies.\n"
+"            "
+msgstr ""
+"Tato možnost je v současné době ve fázi beta. Je možné, že v ní budou chybět "
+"některá omezení a další chyby."
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:9
+msgid "No such train"
+msgstr "Vlak nenalezen"
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:17
+msgid "Train with such a number does not exist in the Simrail Express database."
+msgstr "Vlak s tímto číslem v Simrail Express databázi neexistuje."
+
+#: src/simrail_train_scanner/templates/train_documents_not_found.html:18
+msgid "Try again?"
+msgstr "Zkusit znovu?"
+
+#: src/simrail_train_scanner/templates/trains.html:3
+#: src/simrail_train_scanner/templates/trains.html:9
+msgid "Trains available for driving"
+msgstr "Dostupné vlaky ke zvolení"
+
+#: src/simrail_train_scanner/templates/trains.html:14
+msgid "Just a moment! We are fetching the freshest data just for you..."
+msgstr "Vydržte chvíli! Stahují se nejaktuálnější data..."
+
+#: src/simrail_train_scanner/templates/trains.html:29
+#: src/simrail_train_scanner/templates/trains.html:40
+#: src/simrail_train_scanner/templates/trains.html:51
+msgid "Any"
+msgstr "Jakýkoliv"
+
+#: src/simrail_train_scanner/templates/trains.html:31
+msgid "Passenger"
+msgstr "Osobní"
+
+#: src/simrail_train_scanner/templates/trains.html:33
+msgid "Freight"
+msgstr "Nákladní"
+
+#: src/simrail_train_scanner/templates/trains.html:42
+msgid "Classic"
+msgstr "Klasický"
+
+#: src/simrail_train_scanner/templates/trains.html:44
+msgid "Modern"
+msgstr "Moderní"
+
+#: src/simrail_train_scanner/templates/trains.html:53
+msgid "Stationary"
+msgstr "Stojící"
+
+#: src/simrail_train_scanner/templates/trains.html:55
+msgid "In Motion"
+msgstr "V pohybu"
+
+#: src/simrail_train_scanner/templates/trains.html:87
+msgid "Download Train Documents"
+msgstr "Stáhnout vlakové dokumenty"
+
+#: src/simrail_train_scanner/templates/trains.html:159
+msgid "Coming soon"
+msgstr "Brzy..."
+
+#: src/simrail_train_scanner/templates/trains.html:164
+msgid "Fetching latest information. It might take up to 1 minute."
+msgstr "Získávání nejnovějších informací... Může to trvat až minutu."
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:5
+msgid "Order issued at:"
+msgstr "Rozkaz vydaný v:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:7
+msgid "station:"
+msgstr "stanice:"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:14
+msgid "issuer's signature"
+msgstr "Podpis vystavitele"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+msgid "Written Order"
+msgstr "Písemný rozkaz"
+
+#: src/simrail_train_scanner/templates/rows/r307_footer.html:22
+#: src/simrail_train_scanner/templates/rows/r307_header.html:3
+msgid "for train no."
+msgstr "pro vlak č."
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:1
+msgid "Written Order \"O\" No."
+msgstr "Písemný rozkaz \"O\" č."
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:4
+msgid "on"
+msgstr "na"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:5
+msgid "for the section of"
+msgstr "pro úsek"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:8
+msgid "from station:"
+msgstr "ze stanice:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:12
+msgid "to station:"
+msgstr "do stanice:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:17
+msgid "via:"
+msgstr "přes:"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:27
+msgid "slow down and exercise extra caution (Vmax km/h)"
+msgstr "snížit rychlost a jet se zvýšenou opatrností (Vmax km/h)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:28
+msgid "exercise extra caution (e.c.)"
+msgstr "jet se zvýšenou opatrností (Op)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:33
+msgid "#"
+msgstr "#"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:34
+msgid "Line"
+msgstr "Trať"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:37
+msgid "At post (section)"
+msgstr "Ve stanici (úseku)"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:38
+msgid "Due to"
+msgstr "Z důvodu"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:41
+msgid "Track No."
+msgstr "Kolej číslo"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:44
+msgid "From m.p."
+msgstr "od km"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:45
+msgid "From hour"
+msgstr "od hodiny"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:48
+msgid "Till m.p."
+msgstr "do km"
+
+#: src/simrail_train_scanner/templates/rows/r307_header.html:49
+msgid "Till hour"
+msgstr "do hodiny"
+
+#: src/simrail_train_scanner/templates/rows/r307_no_warnings.html:3
+msgid "No warnings"
+msgstr "Žádné výstrahy"
+
+msgid "Timetables for SimRail."
+msgstr "Jízdní řády pro SimRail."
+
+msgid "Listing of available trains."
+msgstr "Procházení dostupných vlaků."
+
+msgid "All rights reserved."
+msgstr "Všechna práva vyhrazena."
+
+msgid "Not affiliated with SimRail S.A."
+msgstr "Není spojeno se společností SimRail S.A."
+
+msgid "Train Formation Card"
+msgstr "Složení vlaku"
+
+msgid "Rail vehicle receipt confirmation"
+msgstr "Potvrzení o převzetí železničního vozidla"
+
+msgid "Train number"
+msgstr "Číslo vlaku"
+
+msgid "From station"
+msgstr "Ze stanice"
+
+msgid "To station"
+msgstr "Do stanice"
+
+msgid "Country of Registration"
+msgstr "Země registrace"
+
+msgid "Rail Vehicle Owner"
+msgstr "Vlastník"
+
+msgid "Type (class)"
+msgstr "Řada (třída)"
+
+msgid "Vehicle Owner's Number"
+msgstr "Číslo vlastníka"
+
+msgid "Vehicle Length"
+msgstr "Délka soupravy"
+
+msgid "Load Weight"
+msgstr "Váha soupravy"
+
+msgid "Own Weight"
+msgstr "Vlastní váha"
+
+msgid "inspected by"
+msgstr "Kontrolováno od"
+
+msgid "Net"
+msgstr "Netto"
+
+msgid "Hauling"
+msgstr "Tažení"
+
+msgid "Gross"
+msgstr "Brutto"
+
+msgid "Weight"
+msgstr "Váha"
+
+msgid "Vehicle"
+msgstr "Vlak"
+
+msgid "Length"
+msgstr "Délka"
+
+msgid "List of vehicles in train formation"
+msgstr "Seznam vagonů ve vlakové sestavě"
+
+msgid "Br.sett."
+msgstr ""
+"Režim\n"
+"brzd"
+
+msgid "Route:"
+msgstr "Trať:"
+
+msgid "Traction vehicles:"
+msgstr "Trakční jednotky:"
+
+msgid "Hauled stock:"
+msgstr "Tažené vozy:"
+
+msgid "Train length:"
+msgstr "Délka vlaku:"
+
+msgid "Train weight:"
+msgstr "Váha vlaku:"
+
+msgid "Other documents"
+msgstr "Ostatní dokumenty"
+
+msgid ""
+"The Train Formation Card contains detailed information about the consist of "
+"your train, including vehicle types, numbers, lenghts and weights."
+msgstr ""
+"Na kartě vlakového složení jsou uvedeny podrobné informace o složení vlaku, "
+"včetně typů, čísel, délky a hmotnosti jednotlivých vozů."
+
+msgid "PDF R7"
+msgstr "PDF R7"

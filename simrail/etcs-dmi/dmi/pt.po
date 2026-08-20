@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ETCS DMI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-09 11:03+0100\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+
+#: ../DMI/window/brightness.cpp:13 ../DMI/window/menu_settings.cpp:21
+msgid "Brightness"
+msgstr ""
+
+#: ../DMI/window/data_entry.cpp:16 ../DMI/window/data_entry.cpp:17
+#: ../DMI/window/data_validation.cpp:19 ../DMI/window/keyboard.cpp:250
+#: ../DMI/window/keyboard.cpp:257 ../DMI/window/track_ahead_free.cpp:27
+msgid "Yes"
+msgstr "Sim"
+
+#: ../DMI/window/data_entry.cpp:62
+msgid " entry complete?"
+msgstr " entrada completa?"
+
+#: ../DMI/window/driver_id.cpp:16
+msgid "TRN"
+msgstr "NTRAIN"
+
+#: ../DMI/window/fixed_train_data.cpp:15 ../DMI/window/fixed_train_data.cpp:19
+#: ../DMI/window/fixed_train_data.cpp:25
+msgid ""
+"Enter\n"
+"data"
+msgstr ""
+"Int.\n"
+"dados"
+
+#: ../DMI/window/keyboard.cpp:249 ../DMI/window/keyboard.cpp:253
+msgid "No"
+msgstr "Não"
+
+#: ../DMI/window/menu_main.cpp:20
+msgid "Main"
+msgstr "Principal"
+
+#: ../DMI/window/menu_main.cpp:22
+msgid "Start"
+msgstr "Começar"
+
+#: ../DMI/window/menu_main.cpp:26
+msgid "Driver ID"
+msgstr "Dados Motorista"
+
+#: ../DMI/window/menu_main.cpp:30
+msgid "Train Data"
+msgstr "Dados Trem"
+
+#: ../DMI/window/menu_main.cpp:34
+msgid "Level"
+msgstr "Nível"
+
+#: ../DMI/window/menu_main.cpp:38
+msgid "Train running number"
+msgstr "Número do trem"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Exit Shunting"
+msgstr "Manobras finais"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Shunting"
+msgstr "Manobras"
+
+#: ../DMI/window/menu_main.cpp:46
+msgid "Non-Leading"
+msgstr "Tração dupla"
+
+#: ../DMI/window/menu_main.cpp:47
+msgid "Maintain shunting"
+msgstr "Manobra de espera"
+
+#: ../DMI/window/menu_main.cpp:48
+msgid "Radio data"
+msgstr "Dados de rádio"
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Continue in SM"
+msgstr ""
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Initiate SM"
+msgstr ""
+
+#: ../DMI/window/menu_main.cpp:57
+#, fuzzy
+#| msgid "Exit Shunting"
+msgid "Exit SM"
+msgstr "Manobras finais"
+
+#: ../DMI/window/menu_ntc.cpp:11
+msgid "NTC data entry"
+msgstr "Entrada de dados NTC"
+
+#: ../DMI/window/menu_ntc.cpp:20
+msgid "End of data entry"
+msgstr "Fim da entrada de dados"
+
+#: ../DMI/window/menu_override.cpp:12
+msgid "Override"
+msgstr "Superação"
+
+#: ../DMI/window/menu_override.cpp:14
+msgid "EoA"
+msgstr "EoA"
+
+#: ../DMI/window/menu_radio.cpp:18
+msgid "RBC data"
+msgstr "Dados RBC"
+
+#: ../DMI/window/menu_radio.cpp:20
+msgid "Contact last RBC"
+msgstr "Contato último RBC"
+
+#: ../DMI/window/menu_radio.cpp:24
+msgid "Use short number"
+msgstr "Usar número curto"
+
+#: ../DMI/window/menu_radio.cpp:28
+msgid "Enter RBC data"
+msgstr "Insira os dados RBC"
+
+#: ../DMI/window/menu_radio.cpp:32
+msgid "Radio Network ID"
+msgstr "ID da rede de rádio"
+
+#: ../DMI/window/menu_settings.cpp:11
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../DMI/window/menu_settings.cpp:13
+msgid "Language"
+msgstr ""
+
+#: ../DMI/window/menu_settings.cpp:17 ../DMI/window/volume.cpp:13
+msgid "Volume"
+msgstr ""
+
+#: ../DMI/window/menu_settings.cpp:25
+msgid "System version"
+msgstr "Versão do sistema"
+
+#: ../DMI/window/menu_settings.cpp:29
+msgid "Set VBC"
+msgstr "Adicionar VBC"
+
+#: ../DMI/window/menu_settings.cpp:33
+msgid "Remove VBC"
+msgstr "Remover VBC"
+
+#: ../DMI/window/menu_spec.cpp:11
+msgid "Special"
+msgstr "Especial"
+
+#: ../DMI/window/menu_spec.cpp:13
+msgid "Adhesion"
+msgstr "Aderência"
+
+#: ../DMI/window/menu_spec.cpp:17
+msgid "SR Speed/Distance"
+msgstr "SR Velocidade/Distância"
+
+#: ../DMI/window/menu_spec.cpp:21
+msgid "Train integrity"
+msgstr "Treinar integridade"
+
+#: ../DMI/window/menu_spec.cpp:26
+msgid "BMM reaction inhibition"
+msgstr ""
+
+#: ../DMI/window/train_data.cpp:14 ../DMI/window/train_data.cpp:18
+#: ../DMI/window/train_data.cpp:24
+msgid ""
+"Select\n"
+"type"
+msgstr ""
+"Sel.\n"
+"cara"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Main"
+#~ msgstr ""
+#~ "Cardá-\n"
+#~ "pio"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Over-\n"
+#~ "ride"
+#~ msgstr "Superação"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Data\n"
+#~ "view"
+#~ msgstr "Dados"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Spec"
+#~ msgstr "Especial"
+
+#~ msgid "DEL"
+#~ msgstr "DO"

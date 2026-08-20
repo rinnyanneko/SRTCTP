@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ETCS DMI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-09 11:03+0100\n"
+"PO-Revision-Date: 2024-02-12 07:07+0000\n"
+"Last-Translator: Jose Jimenez <jjlor1981@gmail.com>\n"
+"Language-Team: Spanish <https://sts.simkol.pl:18443/projects/simrail/"
+"etcs-dmi/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+#: ../DMI/window/brightness.cpp:13 ../DMI/window/menu_settings.cpp:21
+msgid "Brightness"
+msgstr "Brillo"
+
+#: ../DMI/window/data_entry.cpp:16 ../DMI/window/data_entry.cpp:17
+#: ../DMI/window/data_validation.cpp:19 ../DMI/window/keyboard.cpp:250
+#: ../DMI/window/keyboard.cpp:257 ../DMI/window/track_ahead_free.cpp:27
+msgid "Yes"
+msgstr "Sí"
+
+#: ../DMI/window/data_entry.cpp:62
+msgid " entry complete?"
+msgstr " ¿ Entrada completa ?"
+
+#: ../DMI/window/driver_id.cpp:16
+msgid "TRN"
+msgstr ""
+"Número de\n"
+"tren"
+
+#: ../DMI/window/fixed_train_data.cpp:15 ../DMI/window/fixed_train_data.cpp:19
+#: ../DMI/window/fixed_train_data.cpp:25
+msgid ""
+"Enter\n"
+"data"
+msgstr ""
+"Int.\n"
+"datos"
+
+#: ../DMI/window/keyboard.cpp:249 ../DMI/window/keyboard.cpp:253
+msgid "No"
+msgstr "No"
+
+#: ../DMI/window/menu_main.cpp:20
+msgid "Main"
+msgstr "Principal"
+
+#: ../DMI/window/menu_main.cpp:22
+msgid "Start"
+msgstr "Inicio"
+
+#: ../DMI/window/menu_main.cpp:26
+msgid "Driver ID"
+msgstr "ID Maquinista"
+
+#: ../DMI/window/menu_main.cpp:30
+msgid "Train Data"
+msgstr "Datos Tren"
+
+#: ../DMI/window/menu_main.cpp:34
+msgid "Level"
+msgstr "Nivel"
+
+#: ../DMI/window/menu_main.cpp:38
+msgid "Train running number"
+msgstr "Número de tren"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Exit Shunting"
+msgstr "Fin Maniobras"
+
+#: ../DMI/window/menu_main.cpp:42
+msgid "Shunting"
+msgstr "Maniobras"
+
+#: ../DMI/window/menu_main.cpp:46
+msgid "Non-Leading"
+msgstr "Doble Tracción"
+
+#: ../DMI/window/menu_main.cpp:47
+msgid "Maintain shunting"
+msgstr "Mantener maniobra"
+
+#: ../DMI/window/menu_main.cpp:48
+msgid "Radio data"
+msgstr "Datos radio"
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Continue in SM"
+msgstr "Continuar en SM"
+
+#: ../DMI/window/menu_main.cpp:53
+msgid "Initiate SM"
+msgstr "Iniciar SM"
+
+#: ../DMI/window/menu_main.cpp:57
+msgid "Exit SM"
+msgstr "Salir de SM"
+
+#: ../DMI/window/menu_ntc.cpp:11
+msgid "NTC data entry"
+msgstr "Entrada de datos NTC"
+
+#: ../DMI/window/menu_ntc.cpp:20
+msgid "End of data entry"
+msgstr "Fin entrada datos"
+
+#: ../DMI/window/menu_override.cpp:12
+msgid "Override"
+msgstr "Rebase"
+
+#: ../DMI/window/menu_override.cpp:14
+msgid "EoA"
+msgstr "EOA"
+
+#: ../DMI/window/menu_radio.cpp:18
+msgid "RBC data"
+msgstr "Conexión RBC"
+
+#: ../DMI/window/menu_radio.cpp:20
+msgid "Contact last RBC"
+msgstr "Contactar último RBC"
+
+#: ../DMI/window/menu_radio.cpp:24
+msgid "Use short number"
+msgstr "Usar número corto"
+
+#: ../DMI/window/menu_radio.cpp:28
+msgid "Enter RBC data"
+msgstr "Introducir datos RBC"
+
+#: ../DMI/window/menu_radio.cpp:32
+msgid "Radio Network ID"
+msgstr "ID Red de radio"
+
+#: ../DMI/window/menu_settings.cpp:11
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../DMI/window/menu_settings.cpp:13
+msgid "Language"
+msgstr "Idioma"
+
+#: ../DMI/window/menu_settings.cpp:17 ../DMI/window/volume.cpp:13
+msgid "Volume"
+msgstr "Volumen"
+
+#: ../DMI/window/menu_settings.cpp:25
+msgid "System version"
+msgstr "Versión del Sistema"
+
+#: ../DMI/window/menu_settings.cpp:29
+msgid "Set VBC"
+msgstr "Establecimiento VBC"
+
+#: ../DMI/window/menu_settings.cpp:33
+msgid "Remove VBC"
+msgstr "Suprimir VBC"
+
+#: ../DMI/window/menu_spec.cpp:11
+msgid "Special"
+msgstr "Especial"
+
+#: ../DMI/window/menu_spec.cpp:13
+msgid "Adhesion"
+msgstr "Adherencia"
+
+#: ../DMI/window/menu_spec.cpp:17
+msgid "SR Speed/Distance"
+msgstr "Datos SR Velocidad/Distancia"
+
+#: ../DMI/window/menu_spec.cpp:21
+msgid "Train integrity"
+msgstr "Integridad del tren"
+
+#: ../DMI/window/menu_spec.cpp:26
+msgid "BMM reaction inhibition"
+msgstr "Inhibición de reacción BMM"
+
+#: ../DMI/window/train_data.cpp:14 ../DMI/window/train_data.cpp:18
+#: ../DMI/window/train_data.cpp:24
+msgid ""
+"Select\n"
+"type"
+msgstr ""
+"Sel.\n"
+"tipo"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Main"
+#~ msgstr "Menú"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Over-\n"
+#~ "ride"
+#~ msgstr "Rebase"
+
+#~ msgctxt "Navigation bar"
+#~ msgid ""
+#~ "Data\n"
+#~ "view"
+#~ msgstr "Datos"
+
+#~ msgctxt "Navigation bar"
+#~ msgid "Spec"
+#~ msgstr "Especial"
+
+#~ msgid "DEL"
+#~ msgstr "Del"

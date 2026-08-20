@@ -1,0 +1,412 @@
+drive_to_platform=Várjon a fehér fényre a jelzőn, ami engedélyezi a behaladást a peronhoz.
+Reporting=Jelentkezem.
+mission_finished=Gratulálunk, küldetés teljesítve!
+startup_message=Üdvözlünk a SimRail demo-ban. Most Dąbrowa Górnicza Ząbkowice állomáson vagy.
+departure=40665, indulásra készen.
+veh_dim_lights=Nappal tompíthatod a fényszórókat,hogy ne vakítsd el a többi mozdonyvezetőt.
+veh_activate_cab=Aktiváld a vezetőállást azzal, hogy a kapcsolót az óramutató járásaval megegyezően az első helyzetébe állítod.
+veh_enable_battery=Nagyszerű. Most kapcsold be az akkumulátort, majd csukd be a fedőjét.
+veh_turn_on_radio=Most kapcsold be a mozdonyrádiót. Ezzel tudsz kommunikálni a forgalmi szolgálattevőkkel az utad alatt.
+veh_set_brake_drive=Helyezd a kiegészítő féket oldó állásba!
+veh_lower_flap=Csukd be a fedőt.
+veh_set_lights=Állítsd a fényszórókat menet állásba.
+use_zew_dabrowa=Használd a hívás gombot, hogy hívd a forgalmi szolgálattevőt.
+veh_battery=Kapcsold be az akkumulátort!
+veh_eu_19=Kapcsold be a főmegszakítót.
+veh_eu_20=Kapcsold be az akkumulátortöltőt.
+veh_eu_21=Kapcsold be a légsűrítőt.
+veh_eu_22=Kapcsold ki az akkumulátortöltőt!
+veh_eu_18=Várj, amíg a mérőműszeren megjelenik a fesővezeték feszültségértéke.
+substitute_signal=Dąbrowa Górnicza! A 40665 számú vonat engedélyt kér, hogy behaladjon az állomásra.
+obey_train=Vezesd a vonatot a menetrend szerint
+veh_turn_on_breaker=Most kapcsold be a főmegszakítót
+veh_set_dir_forward=Most állítsd be az irányválasztóval az előremenetet!
+veh_hold_pipe_unlock=Tartsd nyomva az főlégvezeték feltöltés gombját!
+veh_release_spring=Most fel kell oldani a rugóerőtárolós féket!
+veh_use_zew=Használd a hívás gombot a mozdonyrádión, hogy megerősítsd készenlétedet a forgalmi szolgálattevő felé!
+veh_set_main_handle_to_brake=Húzd magad felé a kart, vagy használd a {button=Vonatvezető|Gázszelep csökkentése} gombot a fékezéshez.
+veh_engage_spring=Használd a rugóerőtárolós féket!
+veh_allow_doors=Engedélyezd az utasok számára az ajtónyitást, azzal, hogy a kapcsolót a megfelelő állásba fordítod!
+veh_wait_for_pantograph=Várj az áramszedő felemelkedésére!
+mozna_wjez=A 40665 számú vonat indulásra készen.
+_M3_veh_activate_cab=Ahhoz, hogy aktiváld a vezetőállást, állítsd a kapcsolót a menetirány szerinti első állásába!
+veh_raise_pantograph=Ez a jármű elektromos működtetésű, mely energergiát a  felsővezetéki rendszerből nyer, ezért szükséges az áramszedő felemelése.
+veh_raise_flap=Azzal kell kezdenünk, hogy előkészítjük a vonatot. Sétálj a szerelvényhez és nyisd ki a panelt az első ajtó mellett!
+ready_platform=Ząbkowice! A 40665 szamú vonat készen áll a peronhoz való tolatásra.
+radio_brake_test_engage=414018, befékezni!
+radio_brake_test_release=414018, féket feloldani!
+radio_departure_2=414018, a rádió jól működik. Készen állok a vonat adatainak felvételére.
+approaching_stop_next=Közeledsz a következő megállóhoz!
+tutorial_end=Ez az oktatóanyag vége. Folytasd a vezetést Będzin-ig! Sok szerencsét.
+veh_push_main_to_neutral=A kar fékállásban van. Told előre!
+veh_push_main_to_drive=Nyomd előre a menetszabályzót a gyorsításhoz. Használhatod a {button=Vonatvezető|Növelje a gázt} gombot. Úgy szabályozd a menetszabályzó pozícióját, hogy ne léped túl a <kmph>25</kmph> megengedett sebességet.
+veh_enter_cab=Ideje belépni a vezetőállásra, használd a {button=In-Game Global Actions|Cabin camera} billentyűt.
+_M3_veh_enter_cab=A mozdonyba való belépéshez közelítsd meg, és kattintsál az ajtóra, vagy nyomd meg a {button=In-Game Global Actions|Cabin camera} gombot.
+veh_push_main_to_drive_normal=Told előre a menetszabályzót, hogy növeld a sebességet.
+radio_brake_test_done=414018, fék rendben. Köszönöm.
+veh_eu_17=Áramszedőt fel.
+veh_close_doors=Tiltsd le az ajtók kinyitásának lehetőségét a kapcsoló megfelelő helyzetbe forgatásával.
+finish_tutorial=Várd meg az indulási időpontot, zárd be az ajtókat a jegyvizsgáló után, és közlekedj a menetrend szerint.
+dabrowa_zast=40665, továbbhaladást engedélyező jelzéssel megközelíteni a Dąbrowa Górniczát az 1-es számú vágányon.
+finish_tutorial2=A képernyő jobb felső sarkában láthatja a következő jelző jelzését és a közelgő sebességkorlátozásokat.
+finish_tutorial4=A vonat minden állomáson és megállóhelyen megáll. Fokozottan ügyeljél az indikátorokra és jelzőkre, továbbá a diszpécser parancsokra is.
+wjazd_bedzin=40665, haladjon a 2-es vágányhoz Będzin állomáson.
+bedzin_prosze_wjazd=A 40665 bejáratot kér Będzin állomásra.
+can_speed_up=Az állomás elhagyása után felgyorsíthatod az engedélyett legnagyobb sebességre.
+next_signal_stop_caution=A látható jelző azt jelzi, hogy a következő jelző a Megállj! jelzést mutatja. Vezess óvatosan.
+use_zew_bedzin=Használd a rádió ZEW gombját a forgalmi szolgálattevő hívásához.
+_M3_veh_enable_battery=Kapcsold be az akkumulátort, és aktiváljad a vezetőpultot a vezetőállás hátsó falán lévő kapcsolóval.
+_M3_veh_push_main_to_drive=Told előre a menetszabályzó kart a vonóerő leadásához, és gyorsíts.
+start_2=Elötted egy Traxx mozdony látható egy szénnel megrakott tehervonattal mely az egyik kelet-lengyelországi erőműhöz megy. A katowicei "Staszic" szénbányától a Sosnowiec Dańdówka állomásig vezető szakaszon fogod vezetni. Végezd el gondosan feladatod, és csodáld meg az ipari tájat.
+radio_departure_4=Értem, a nevem Ferrant, 27-es készenléti szám. Készenléti jelzés.
+radio_departure_1=414018, itt Staszic forgalmi szolgálattevő, rádióellenőrzés.
+radio_departure_3=A vonat 25 kocsiból áll, elegytömege 2000 tonna, 370 méter hosszú, a mozdony pályaszáma E186-134, Stephenson mozdonyvezető, indulásra kész.
+radio_staszic_1=414018 Staszic vonat, belépést kér.
+radio_staszic_3=Köszönöm, a KMB pótjelzésére továbbmegyek a bal oldali vágányon.
+radio_kmb_1=KMB 414018-ra.
+radio_kmb_2=Itt a 414018.
+radio_kmb_3=A 414018 Stawiskáig helytelen vágányon közlekedik.
+radio_kmb_4=Értem, Stawiskáig helytelen vágányon közlekedik.
+radio_dandowka_1=Sosnowiec Dańdówka itt a 414018.
+radio_dandowka_2=414018, válaszol.
+veh_set_brake_release=Állítsd a fékkart Töltő/Oldó helyzetbe.
+veh_set_brake_engage=Állítsd a fékkart fékállásba.
+veh_release_local_brake=Tartsad a mozdonyfék kart kioldott helyzetben.
+brake_test_start=Most a vonat fékpróbája következik. A kocsivizsgáló ellenőrzi, hogy minden kocsin működő fékek vannak-e. Kövesd az utasításait rádión keresztül.
+use_zew=A diszpécser hívásához használd a rádió hívógombját.
+veh_sit=Ha a vezetőülésre szeretnél ülni, nyomj rá az ülésre, vagy nézzél rá és használd az E gombot.
+veh_leave=Nyomd meg a széket, vagy használd a {button=In-Game Global Actions|Stand up/Stand down} gombot a felkeléshez.
+veh_wait_brake_release=A fékek oldása hosszú ideig tarthat. Ennek felgyorsítása érdekében a kart megnövelt keresztmetszetű töltőállásban tarthatod.
+Check_train_radio={L} - {T}, rádióellenőrzés.
+Rec_loudnclear=Itt {L}, hangosan és tisztán hallak.
+Ready_2_go={L}, {T} készen áll.
+Thanku_semaph=Vettem, várj a szabad jelzésre.
+Ready_dep={T} indulásra kész.
+Req_entr={T} – {L}, belépést kér.
+Req_exit={T} - {L}, kilépést kér.
+Entrance_on_subst_on_line_no2=A belépés mellékjelzésen történik a 2. számú vágányra. 2 hibás működés miatt.
+Copy=Megértve.
+Report_2_station2=Vonat {T}, jelentkezzen a {L} állomásra.
+Go2_L_track=A bal oldali vágányon {L}.
+Entrance_given=A(z) {T} vonat belépési jelzése kifüggesztve.
+Rec_hearu_well={T} fogadása után hangosan és tisztán hallom.
+Further_ride_on_L_no2={T}, a további menetel a bal oldali pályán történik. 2.
+_M6_Start_pass_veh_from_to=Ma személyvonattal utazol Sędziszówból-Katowicébe. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+_M7_Start_pass_veh_from_to=Ma személyvonattal utazol Katowicéből-Sędziszówba. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+Entrance_on_subst_on_line_no1=A belépés mellékjelzésen történik a 2. számú vágányra. 1 hibás működés miatt.
+Exit_on_subst_on_line_no2=A kilépés a mellékjelzésen történik a 2. számú vágányra. 2 hibás működés miatt.
+_M13_Start_pass_veh_from_to=Ma személyvonattal utazol Katowicéből-Zawiercie-be. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+_M12_veh_enter_cab=A mozdonyba való belépéshez közelítsd meg, és kattintsál az ajtóra, vagy nyomd meg a billentyűzeten a {button=In-Game Global Actions|Cabin camera} gombot.
+veh_eu_1=Belépés az A kabinba.
+veh_eu_2=Belépés az B kabinba.
+veh_eu_3=A kézifék be van tekerve. Oldd ki a fülke hátsó falán lévő fogantyúval.
+veh_eu_4=Nyisd ki a fedelet a panel bal oldalán, és mozgasd felfelé az akkumulátor főkapcsolót.
+veh_eu_14=Használd a vontatómotor túláramvédelem kiiktaó gombot.
+veh_eu_15=Használd a vontatómotor túlterhelési relé megszakítójának visszaállító gombját.
+veh_eu_16=Használd a kompresszor túlterhelés relé megszakító reset gombját.
+veh_eu_23=A kompresszor letiltása.
+veh_eu_24=Várd meg, amíg a töltőáram stabilizálódik.
+veh_eu_26=Kiegészítőfék oldás, told előre a fogantyút.
+veh_eu_27=Kapcsold be a rádiót és állítsd be a megfelelő csatornát.
+veh_eu_7=Az éberségi rendszer vészfékezett.
+veh_eu_8=Nyugtázd az éberségi felhívást.
+veh_eu_9=Állítsd a hajtókart nullás helyzetbe.
+veh_eu_10=Állítsd a tolatókart nullás helyzetbe.
+veh_eu_11=A vontatómotor túláramvédelem aktív.
+veh_eu_29=Állítsd a vonat fékkarját vezetési helyzetbe.
+veh_eu_30=Állítsd a vonat fékkarját fékezési helyzetbe.
+veh_eu_31=A vonat fékkarja gyorsfék állásban van.
+veh_eu_32=A vonat fékkarja fékezési helyzetben van.
+veh_eu_34=Húzd magad felé a fékkontroller karját a fékezéshez.
+veh_eu_36=Irányváltót előre.
+veh_eu_37=A motorkontaktok meghúzásához állítsd a menetszabályzót az első pozícióba.
+veh_eu_38=A fékezéshez először állítsd a söntkapcsolót és a menetszabályzót nulla helyzetbe.
+veh_eu_40=Fokozatosan növeld a fokozatszámot.
+veh_eu_42=Lehetőleg ne vezess sokat úgy, hogy fékezés közben a mozdony fokozatban van.
+veh_eu_43=Ellenálló helyeken nem lehet motor vontatást használni.
+veh_battery_cabin=Kapcsold be az akkumulátort, és aktiváld a kabint az óramutató járásával megegyező irányba forgatva.
+veh_control_circuits=Kapcsold be a vezérlő áramköröket.
+veh_eu_12=A vontatási túlterhelés megszakító aktív. Túllépted a maximális indítóáramot.
+veh_eu_13=A kompresszor túlterhelés megszakítója aktív. Ezt a túl korai engedélyezés okozhatja.
+veh_eu_25=Várd meg, amíg a főlégtartály megtelik.
+veh_reset_vigilance_system=Használd a gombot vagy a {button=Vonatvezető|Riasztás} gombot a CA/SHP biztonsági rendszer visszaállításához. Ezek a rendszerek rendszeresen ellenőrzik az te éberségét vezetés közben.
+veh_wait_for_breaker=Várj, amíg a főmegszakító bekapcsol, és az akkumulátortöltő valamint a légsűrítő is elindul. Ezeknek a berendezéseknek a megfelelő működése szükséges, például a vonat fékrendszerének táplálásához.
+finish_tutorial3=A sebességmérő megmutatja a beállított teljesítményt, az aktuális sebességkorlátozást és az aktuális fékerőt.
+zastepczy_dabrowa_fin=A helyettesítő jelzés lehetővé teszi a behaladást vészhelyzetekben, akár <kmph>40</kmph> sebességgel.
+drive_train_relation=Ma a 40665 számú személyvonat a Dąbrowa Górnicza Ząbkowice - Będzin szakaszon közlekedik. A működtetéshez a 34WE EMU-t fogod használni.
+approaching_stop_caution=Közeledsz a megállóhoz. Ne feleded, hogy a vonatnak nagy távolságra van szüksége a megálláshoz. Megállás után adjál engedélyéjt az ajtók kinyitásához.
+_M3_veh_release_spring=Mielőtt mehetünk, ki kell engednünk a rögzítőféket. Ez a gomb közvetlenül mögötted, a kabin hátsó falán található.
+start_1=Üdvözöljük a SimRail - The Railway Simulator prológusában. Te Felső-Szilézia (Lengyelország déli részén található) szívében van - az ország legiparosodottabb részén. Az ezen a vidéken bányászott szén évtizedek óta sok erőművet táplált, és a helyi acélgyárakban előállított acélt számos létesítmény építőanyagaként használták.
+radio_staszic_2=Üdvözlöm! Kitérőhiba miatt helyettesítő jelzésre fog belépni. A bal oldali pályán fog működni a KMB felé.
+radio_dandowka_3=Sosnowiec Dańdówkában a 6-os pályán mész, majd megvárod a SimRail teljes megjelenését. Ne felejtsd el hozzáadni a SimRailt kivánságlistádhoz a Steamen. Hamarosan találkozunk.
+veh_set_lights_normal=Pillanatnyilag a bal oldali sávról a jobb pályára fogunk haladni, tehát vissza kell fordítanunk a fényszóró programot 0 állásba. (UIC vonat fejjel)
+veh_set_lights_reverse=Állítsd a fényszóró kapcsolót az 5. helyzetbe, jelezve a PC2 jelet. A kapcsoló a kabin hátsó falán található. Ezt a fényszóró-beállítást használjuk minden bal oldali pálya során.
+_M1_veh_enter_cab=Itt az ideje, hogy felmenj a vezetőállásra, használd a {button=In-Game Global Actions|Cabin camera} gombot, vagy nyomd meg az ajtót, hogy belépj az utastérbe.
+_M4_Start_pass_veh_from_to=Ma személyvonattal utazik Katowicéből Warszawa Wschodniába. Kezdjed a rádiókapcsolat ellenőrzésével a diszpécserrel.
+Further_ride_on_L_no1={T}, a további menet a bal oldali pályán történik. 1.
+_M5_Start_pass_veh_from_to=Ma személyvonattal indulsz Warszawa Wschodniából - Katowicébe. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+Exit_on_subst_on_line_no1=A kilépés a mellékjelzésen történik a 2. számú vágányra. 1 hibás működés miatt.
+_M8_Start_pass_veh_from_to=Ma személyvonattal indulsz Warszawa Wschodniából-Katowicébe. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+_M12_Start_pass_veh_from_to=Ma személyvonattal utazol Zawiercieből-Katowicébe. Kezd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+veh_eu_5=A vezetőállás aktiválásához forgasd el a reteszkapcsolót az óramutató járásával megegyező irányba.
+veh_eu_6=Az éberségi rendszer tesztelésének megerősítéséhez mozgasd az irányváltó-kapcsoló fogantyúját előre- vagy hátramenetbe.
+veh_eu_28=Állítsd a vonat fékkontrollerét menet vagy oldóállásba.
+veh_eu_33=Tartsd lenyomva a főlégvezeték feltöltőgombot a főlégvezeték feltöltéséhez.
+veh_eu_35=Ha a vonat fékkarját hosszú ideig töltési helyzetben hagyod, az a fővezeték túltöltését okozhatja.
+veh_eu_39=Ügyeljél arra, hogy ne lépje túl a 600 A maximális áramerősséget (amper).
+veh_eu_41=A fokozatkapcsoló elérte a nagyteljesítményű menetüzemet. Innentől fogva már söntölhetsz is a teljesítménynövelés érdekében.
+_M11_Start_pass_veh_from_to=Ma tehervonattal utazol Sędziszówból Katowice Muchowiec Staszicba. Kezdd a rádiókapcsolat ellenőrzésével a diszpécserrel.
+veh_set_lights_shunt=Állítsd a fényszórókat tolatási konfigurációra. Egyetlen lámpa a jobb oldalon. (Tb1)
+veh_brake_knorr_maintaining=A fékezőerő kifejtéséhez húzza a vonat fékkarját fékhelyzetbe. A fékek kioldásához tolja a vonat fékkarját vezetési helyzetbe.
+veh_steam_regulator_tutorial_1=A szabályozó a szelepek nyomásának szabályozására szolgál a gőz áramlásának csökkentésével. Nyitottabb szabályozó, annál nagyobb a gőzáramlás. Menet közben a szabályozónak teljesen nyitva kell lennie, hogy ne vesszen el a nagynyomású gőz energiája.
+veh_steam_regulator_tutorial_2=A szabályozó lehetővé teszi a gőz zökkenőmentes áramlását a vonat indításakor, amikor a gőz teljes nyomása magas határértékkel a kerék megcsúszását okozza. Ezenkívül akkor is használható, ha minimális levágással csökkenteni kell a vonóerőt menet közben.
+veh_steam_reverser_tutorial_1=Az irányváltó a mozgás irányának és a hengerekbe áramló gőz mennyiségének beállítására szolgál. A magasabb vágási érték nagyobb vonóerőt és gőzfogyasztást, valamint alacsonyabb gazdaságosságot jelent.
+veh_steam_reverser_decrease_too_much_steam=Túl magas a gőzfogyasztás, csökkentse a helyzetváltót vagy a szabályozót.
+veh_steam_regulator_decrease_vmax=Közel jár a megengedett sebességhez, készüljön fel a szabályozó zárására.
+veh_steam_reverser_ty2_operating_range=Tartsa a küszöböt 20% és 50% között. Ha a vonóerő még mindig túl nagy, csökkentse vagy zárja le a szabályozót.
+veh_steam_reverser_increase=Növeld egy kicsit a határértéket.
+veh_steam_regulator_starting_ty2_1=Nyissa ki egy kicsit a szabályozót, és várja meg, amíg a szelepben kialakul a nyomás.
+veh_steam_reverser_tutorial_2=A levágás a dugattyú mozgásának százalékos aránya, amikor a henger meg van töltve gőzzel, pl. 60%-a azt jelenti, hogy 60%-ban a páratlan löket során a gőz áramlik, további 40%-ban pedig a gőz tágul a belső energiáját felhasználva. Tipikus gőzgépeknél a minimális vezetési küszöb 20%. Most megteszi az első lépését a tolatóval.
+veh_steam_reverser_full_front_tutorial=Állítsa az irányváltót teljes levágásba elöl irányába. Minden indulás előtt úgy kell beállítani, hogy maximális vonóerőt érjünk el, függetlenül a dugattyúk és rudak helyzetétől, amelyek holt helyzetben lehetnek.
+veh_steam_regulator_full_open=Most már teljesen kinyithatja a szabályozót.
+veh_steam_reverser_to_zero=Csökkentse a levágást nullára.
+veh_steam_reverser_decrease_ty2_operating_range=Csökkentse 50% alá a határértéket, hogy a normál működési tartományba kerüljön.
+veh_steam_regulator_increase=Nyissa ki egy kicsit a szabályozót.
+veh_steam_regulator_decrease=Zárd le egy kicsit a szabályozót.
+veh_steam_reverser_full_front=Állítsa az irányváltót teljes levágásra elöl.
+veh_steam_regulator_starting_ty2_3=Kerékcsúszás esetén csökkentse az irányváltót és zárja be a szabályozót.
+veh_steam_regulator_full_close=Zárd le a szabályozót nullára.
+veh_steam_reverser_full_back=Állítsa az irányváltót teljes levágásra fordított irányba.
+veh_brake_knorr_release=Mozgassa a vonat fékkarját vezetési helyzetbe a fékek kioldásához.
+veh_brake_knorr_brake=Állítsa a vonat fékkarját fékezési helyzetbe.
+veh_brake_knorr_braking=A fékezőerő növekszik. A fékerő fenntartása érdekében a fogantyút hátranyomhatja.
+veh_steam_reverser_decrease=Csökkentse egy kicsit a levágást.
+veh_steam_regulator_full_close_vmax=A megengedett sebességnél gyorsabban halad. Zárja le a szabályozót nullára.
+veh_steam_regulator_starting_ty2_2=Működtesse a szabályozót, hogy a szelepben a nyomást 12 atm alatt tartsa. A túl nagy nyomás a kerék megcsúszását okozhatja.
+veh_steam_waterlevel_low=A vízszint túlságosan csökken, csökkentse a gőzfogyasztást az irányváltó és a szabályozó csökkentésével.
+veh_steam_boiler_pressure_low=A kazán nyomása túlságosan csökken, csökkentse a gőzfogyasztást az irányváltó és a szabályozó csökkentésével.
+veh_steam_boiler_flaps_close=Zárd be a csappantyúkat, hogy gyengítse a tüzet.
+veh_steam_fireman_operating_range=A kazán most nem igényel beavatkozást, de vezetés közben figyeld a műszereket és a tűz állapotát.
+veh_steam_open_injector1=Nyisd ki a jobb injektor szelepét.
+veh_steam_open_injector2=Nyisd ki a bal oldali injektor szelepét.
+veh_steam_open_generator=Nyisd ki a turbógenerátor szelepét.
+veh_steam_bolier_injector_nathan=A gőzmozdony éles gőzbefecskendezővel van felszerelve, amely nagy mennyiségű, kissé felmelegített vízzel tápláld a kazánt.
+veh_steam_bolier_injector_metcalf=A gőzmozdony kipufogó gőzbefecskendezővel van felszerelve, amely átlagos mennyiségű vízzel tápláld meg a kazánt, amely a gőzgép munkája során nagyon forró.
+veh_steam_open_compressor=Nyisd ki a légkompresszor szelepét.
+veh_steam_boiler_water_add=Tápláld a kazánt vízzel az egyik injektor segítségével.
+veh_steam_boiler_water_stop=Kapcsold ki az injektort.
+veh_steam_boiler_water_maybe=Fontold meg a kazán vízzel való táplálását.
+veh_steam_grate_coal_stop=Hagyd abba a szén hozzáadását.
+veh_steam_blower_on=Aktiváld a ventilátort a tűz erősítéséhez.
+veh_steam_blower_off=Kapcsold ki a ventilátort.
+veh_steam_blower_water=Kapcsold be a ventilátort, miközben vízzel táplálod a kazánt.
+veh_steam_cocks_open=Nyisd ki a hengercsapokat, hogy megszabadulj a hengerekből.
+veh_steam_cocks_close=Zárd el a hengercsapokat a gőz megtakarítása és a vonóerő növelése érdekében.
+veh_steam_bolier_injector_strube=A gőzmozdony emelő éles gőzbefecskendezővel van felszerelve, amely a tenyérből szívja a vizet és két lépésben kell üzemeltetni.
+veh_steam_bolier_water_bot=Nézd meg a vízmérőt. Tanácsokat adhat a tűzoltónak a kazán vízzel való ellátásához.
+veh_steam_grate_coal_add=Tegyél több szenet a rácsra.
+veh_steam_grate_coal_bot=Nézd meg a rácsot. Tanácsokat adhat a tűzoltónak a szénégetésről.
+veh_steam_boiler_flaps_open=Nyisd ki a csappantyúkat a tűz erősítéséhez.
+veh_steam_fireman_on=Az út során a tűzoltó önállóan gondoskodik a kazán működési paramétereiről, víz utántöltésről és szén hozzáadásával a kemencébe. Az TE feladata csak a mozdony vezetése lesz. Megadhatod neki a tippjeidet. A lehetséges tippek megtekintéséhez vigyed az egeret a kazán nyomásmérőjére, a vízmérőre és a tűztér ajtajára.
+veh_steam_fireman_off=Ezen az úton neked kell ellátnia a tűzoltói feladatokat is, amelyek magukban foglalják: víz utántöltést a kazánban, szént a kemencébe, valamint a fúvó és a csappantyúk működtetését.
+drive_train_relation_34we=Ma a 40665 számú személyvonat a Dąbrowa Górnicza Ząbkowice - Będzin szakaszon közlekedik. A működtetéshez a 34WE EMU-t fogod használni.
+veh_en57_battery=Kapcsold be az akkumulátort a villamos szekrényben.
+veh_en57_groundrelay1=A földelőkapcsolót ikatsd ki.
+veh_en57_groundrelay2=A földelőkapcsolót iktasd ki a villamos szekrényben!
+veh_en57_activatecab=Aktiváld a vezetőállást.
+veh_en57_handbrake=Oldd fel a kéziféket, mely a vezetőállás bal oldalán van.
+veh_en57_buzzer=Az ajtózárás előtt használd a figyelmeztető hangjelzést!
+veh_en57_close_doors=Close the doors using the switch.
+veh_en57_release_ep=Oldd fel az elektropneumatikus (EP) féket. Megjegyzés: A fékezőszelep elengedése után a kontroller visszaugrik EP menetállásba.
+veh_en57_start_slow=A megmozdoláshoz a menetszabályzó kontrollert tedd az első fokozatba. Ez elengendő a tolatás sebességéhez.
+veh_en57_start_full=A vezetéshez mozdítsd a menetszabályzót tetszőleges állásba. Ha induláskor magasabb fokozatkba rakod a menetszabályzót, nem baj, a kontaktorok szabályozzák a vontatási áramot.
+veh_en57_coast=A menetszabályzót tedd nulla állásba. A vontatómotorok kikapcsolnak.
+veh_en57_brake_ep=A fékezéshez tedd a féket EP fékállásba. Ha hosszabb ideig tartod ott, nagyobb lesz a fékhatás. Az EP fékkontroller nem ugrik vissza automatikusan menetállásba!
+veh_en57_open_doors=Nyisd ki az ajtókat a megfelelő kapcsoló segítségével.
+veh_en57_lights_normal=Állítsd be a fényeket a normál vonatközlekedésnek megfelelően!
+veh_en57_lights_left=Állítsd be a fényeket a tolatási mozgáshoz a megfelelő kapcsolók használatával.
+veh_en57_lights_shunt=A fényeket állítsd be a kapcsolók segítségével a tolatási mozgáshoz.
+veh_en57_release_pn=Tedd a légféket a pneumatikus menetállásba.
+veh_go_to_scnd_cab=Menj a másik vezetőállásra.
+veh_en57_radiosupply=Kapcsold be a rádió megtáplását biztosító kapcsolót.
+veh_en57_release_ep2=Csökkentsd az EP fékezés mértékét.
+veh_en57_brake_ep2=Növeld az EP fékezés mértékét.
+startup_message_M12_tutorial_en57=A mai napon a 40665 számú vonatot kell továbbítanod Zawiercie - Dąbrowa Górnicza Ząbkowice között. Egy EN57-es motorvonatot fogsz vezetni. Ez a bemutató megmutja, hogy hogyan kell beüzemelni és vezetni a járművet.
+veh_en57_enter_vehicle=Itt az idő hogy felszállj a járműre, használd a(z) {button=In-Game Global Actions|Cabin camera} gombot,vagy menj a vonat ajtajához, kattints rá, és nyisd ki, de ne felejtsd el bezárni felszállás után.
+veh_electrical_cabinet=Menj a villamos szekrényhez a motorkocsiba.
+veh_en57_enter_cab=Menj a vezetőállásra, használd a(z) {button=In-Game Global Actions|Cabin camera} gombot, vagy kattints a vezetőállás ajtajára.
+veh_set_dir_neutral=Set the direction to neutral position.
+Passenger_Train=Passenger train
+veh_fv4a_decrease_force=Push train brake handle forward to decrease braking force.
+veh_fv4a_decrease_force_short=Decrease braking force.
+veh_fv4a_increase_force_short=Increase braking force.
+veh_fv4a_increase_force=Pull train brake handle towards you, to apply braking force.
+startup_message_M12_tutorial_et22=Today you will run passenger train 40665 on the section Zawiercie - Dąbrowa Górnicza Ząbkowice. You will use the ET22 to operate it. This tutorial will show you how to start and drive the vehicle.
+veh_et22_cabinet_doors=You have forgotten to close left door of the electrical cabinet, which is blocking exit from the cabin. In this tutorial we have closed them for you, but please remember about that in the game. Alternatively you will be forced to exit the vehicle on the other side.
+veh_electrical_cabinet_et22=Go to the low voltage electrical cabinet in the engine room A.
+veh_electrical_cabinet_et22_open=Open the door of the electrical cabinet.
+veh_electrical_cabinet_et22_close=Close the door of the electrical cabinet.
+veh_pneumatic_container_et22=Go to the pneumatic frame in the engine room A. Use the door behind driver’s seat.
+veh_et22_closevalve1=Close the valve of the main tank.
+veh_et22_closevalve2=Close the valve of the pantographs’ compressor.
+veh_wait_for_pant_press=Wait for the pantographs’ tank to fill.
+veh_et22_groundrelay_aux=Differential relay breaker of auxiliary circuits is active.
+veh_radmor_splitter=Kapcsolja be a rádiótelefon elosztóját. A kabin hátsó falán, a jobb oldalon található.
+veh_radmor_splitter_cab=Set the appropriate cabin on the splitter.
+veh_radmor_adapter=Turn on the power adapter of radiotelephone.
+veh_et22_openvalve1=Open the valve of the main tank.
+veh_et22_openvalve2=Open the valve of the pantographs’ compressor.
+veh_local_brake=Engage auxiliary brake, pulling its handle towards you.
+veh_et22_small_compressor=Switch on the compressor using a button on right-hand side wall of the electrical cabinet.
+01_ir_kat_waw_et22_Hello=Welcome to the InterRegio scenario from Katowice to Warsaw. Prepare for departure, wait for dispatcher call for other train, and then use ZEW button on radio to begin shunting.
+01_ir_kat_waw_et22_LoadingVD=The scenario is loading, please wait one moment before calling ZEW.
+01_ir_kat_waw_et22_B_Kato_Hello_1=<color="orange">[KO]</color> 43128 Requesting communication check with KO.
+01_ir_kat_waw_et22_B_Kato_Hello_2=<color="yellow">[43128]</color> Katowice, this is 43128, receiving you loud and clear. By the way, is there a clearance for entry?
+01_ir_kat_waw_et22_B_Kato_Hello_3=<color="orange">[KO]</color> Affirmative, proceeding with entry into KO 43128.
+01_ir_kat_waw_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, train 41130 ready to maneuver to platforms from track 12.
+01_ir_kat_waw_et22_P_Kato_Start_2=<color="orange">[KO]</color> 41130, Katowice, received. Stand by for the shunting plan on track 3, which is clear. You'll be pushing the train.
+01_ir_kat_waw_et22_P_Kato_Man_0=<color="yellow">[Pilot]</color> Engineer 41130 to pilot - please report in.
+01_ir_kat_waw_et22_P_Kato_Man_1=<color="green">[Ty]</color> Engineer 41130 Reporting.
+01_ir_kat_waw_et22_P_Kato_Man_2=<color="yellow">[Pilot]</color> The rear shunting signal has been given - we can push into the platforms on track 3, which is clear. Please stop once the locomotive passes the semaphore.
+01_ir_kat_waw_et22_P_Kato_Ready=<color="green">[Ty]</color> Katowice, train 41130 ready to move. You may display the signal.
+01_ir_kat_waw_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, this is train 41130, reporting in for radio connectivity test after channel change.
+01_ir_kat_waw_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Receiving you loud and clear in Sosnowiec Południowy, 41130. Test successful.
+01_ir_kat_waw_et22_P_Kaz_Hello_1=<color="green">[Ty]</color> Sosnowiec Kazimierz, this is 41130, how do you read me after switching to channel 4?
+01_ir_kat_waw_et22_P_Kaz_Hello_2=<color="orange">[SKz]</color> In Kazimierz we are receiving you loud and clear, 41130. Clearance granted for track number 5 - crossing with train 94302.
+01_ir_kat_waw_et22_P_DGW_Info_1=<color="orange">[DGW]</color> 41130 to Dąbrowa Wschodnia.
+01_ir_kat_waw_et22_P_DGW_Info_2=<color="green">[Ty]</color> 41130, go ahead.
+01_ir_kat_waw_et22_P_DGW_Info_3=<color="orange">[DGW]</color> 41130, understood. We'll wait at the platform for 3-4 minutes for the freight train to clear.
+01_ir_kat_waw_et22_P_DGW_Info_4=<color="orange">[DGW]</color> 41130, Sławkówba való indulásra engedélyt adtunk.
+01_ir_kat_waw_et22_P_Sla_Info_1=<color="orange">[Sla]</color> 41130, report to Sławków.
+01_ir_kat_waw_et22_P_Sla_Info_2=<color="green">[Ty]</color> 41130, reporting.
+01_ir_kat_waw_et22_P_Sla_Info_3=<color="orange">[Sla]</color> From Sławków to Bukowno, we'll be using the left track. On the right track near Bukowno Przymiarki station, there's a freight train with a malfunction. Please use audio warning signal in its vicinity and proceed with caution.
+01_ir_kat_waw_et22_P_Char_Hello_1=<color="green">[Ty]</color> Charsznica, 41130 asking for entrance.
+01_ir_kat_waw_et22_P_Char_Hello_2=<color="green">[Ty]</color> Charsznica to 41130, report in.
+01_ir_kat_waw_et22_P_Char_Hello_3=<color="orange">[Chr]</color> 41130, In Charsznica, we're experiencing a power outage at the interlocking tower. We'll try to grant you entry shortly.
+01_ir_kat_waw_et22_P_Koz_Hello_1=<color="green">[Ty]</color> Sprowa 41130, Radio check after switching to channel 5.
+01_ir_kat_waw_et22_P_Koz_Hello_2=<color="orange">[Spr]</color> "Loud and clear. Over and out.
+01_ir_kat_waw_et22_P_Spr_Info_0=<color="orange">[Spr]</color> 41130, jelentse Sprowának.
+01_ir_kat_waw_et22_P_Spr_Info_1=<color="green">[Ty]</color> 41130 zgłasza się
+01_ir_kat_waw_et22_P_Spr_Info_2=<color="orange">[Spr]</color> 41130, We have a malfunction in the SRK equipment. From here to Starzyn, we'll be using the left track, following the substitute signal due to the lack of position control at the turnout.
+01_ir_kat_waw_et22_P_Spr_Info_3=<color="green">[Ty]</color> Érkezett, Starzynnak a cserejelen a bal sávon. Adhat helyettesítő jelet a 41130-ra.
+01_ir_kat_waw_et22_P_Psa_Hello_1=<color="green">[Ty]</color> Psary, 41130, Hello. Radio check on channel 1.
+01_ir_kat_waw_et22_P_Psa_Hello_2=<color="orange">[Ps]</color> Perfect communication today in Psary.
+01_ir_kat_waw_et22_P_Gro_Hello_1=<color="green">[Ty]</color> Grodzisk report to 41130 after channel change.
+01_ir_kat_waw_et22_P_Gro_Hello_2=<color="orange">[Gr]</color> Receiving you loud and clear in Grodzisk.
+01_ir_kat_waw_et22_P_Waw_Man_1=<color="green">[Ty]</color> Warszawa Zachodnia, 41130 ready to move to the parking tracks.
+01_ir_kat_waw_et22_P_Waw_Man_2=<color="orange">[WZD]</color> 41130, In a moment, the shunting disc will be provided for track 201. You'll be pushing the train onto the free track.
+01_ir_kat_waw_et22_P_Waw_Man_3=<color="yellow">[Mechanic]</color> Mechanic 41130 a pilóta. A hátsó tolatótárcsát biztosították - rá lehet nyomni a 201-es vágányra, ami tiszta.
+01_ir_kat_waw_et22_P_Ready=<color="yellow">[Kierownik]</color> 41130, departure.
+01_ir_kat_waw_et22_P_Ack=<color="green">[Ty]</color> Received.
+01_ir_kat_waw_et22_StaticNoise=[zaj]
+01_ir_kat_waw_et22_ZewHelper=Remember to call the dispatcher when changing channels for communication check.
+03_kwk_sta_laz_et22_Hello=Welcome to the freight scenario at KWK Staszic. Prepare for departure, the dispatcher will provide the signal shortly.
+03_kwk_sta_laz_et22_P_Start=<color="orange">[St]</color> 443021, clearance granted for entry in Stawiska. Let's roll!
+03_kwk_sta_laz_et22_P_Kmb_Hello_1=<color="green">[Ty]</color> Staszic to 443021, radio check after switching to channel 3.
+03_kwk_sta_laz_et22_P_Kmb_Hello_2=<color="orange">[Ssc]</color> Loud and clear in Staszic.
+03_kwk_sta_laz_et22_P_St_Hello_1=<color="green">[Ty]</color> Staszic Kopalnia, 443021 requesting entry, Also, please note that the locomotive will switch to train 444020.
+03_kwk_sta_laz_et22_P_St_Hello_2=<color="orange">[StA]</color> Staszic Kopalnia acknowledged, and entry was granted for you. Please pull up just before the departure signal, and once the locomotive is detached from the train, report readiness for maneuvers on the radio.
+03_kwk_sta_laz_et22_P_St_Man1_1=<color="green">[Ty]</color> Staszic Kopalnia, The locomotive from 443021 has been detached from the train and is ready for maneuvers.
+03_kwk_sta_laz_et22_P_St_Man1_2=<color="orange">[StB]</color> The locomotive from 443021, we're heading to sorting track 26, then switch cabins and proceed via the free track number 6 to the other side of the station.
+03_kwk_sta_laz_et22_P_St_Man2_0=<color="orange">[StA]</color> Locomotive to 443021 report to Kopalnia Staszic.
+03_kwk_sta_laz_et22_P_St_Man2_1=<color="green">[Ty]</color> Reporting in, loc from 443021.
+03_kwk_sta_laz_et22_P_St_Man2_2=<color="orange">[StA]</color> The shunting disc has been provided. At marker W5, we'll switch cabins and move onto the track occupied by the train set 444020. Please be cautious of the track slope when changing cabins!
+03_kwk_sta_laz_et22_P_St_Man3_1=<color="orange">[StA]</color> Mozdony a 443021-es Staszic szám alatt – most válthat kabint, és továbbhaladhat a 444020-as vonat által elfoglalt vágányra.
+03_kwk_sta_laz_et22_P_St_Ready_1=<color="green">[Ty]</color> Staszic Kopalnia for train 444020, the train is connected after maneuvers and is ready to proceed as train 444020.
+03_kwk_sta_laz_et22_P_St_Ready_2=<color="orange">[StA]</color> 444020, Could you please provide an analysis of the train?
+03_kwk_sta_laz_et22_P_St_Ready_3=<color="green">[Ty]</color> 31 wagons, 3000 tons, 437 meters long, locomotive ET22-911, engineer Krzechowicz, train ready for departure.
+03_kwk_sta_laz_et22_P_St_Ready_4=<color="orange">[StA]</color> Thank you, readiness number 31, signaling now provided.
+03_kwk_sta_laz_et22_P_Sta_Hello_1=<color="orange">[Ssc]</color> 444020 from Staszic to KMB, proceeding on the left track.
+03_kwk_sta_laz_et22_P_Sta_Hello_2=<color="green">[Ty]</color> Received, from Staszic to KMB, proceeding on the left track.
+03_kwk_sta_laz_et22_P_Ssc_Hello_1=<color="green">[Ty]</color> Katowice Muchowiec KMB, 444020, radio check after switching to channel 5.
+03_kwk_sta_laz_et22_P_Ssc_Hello_2=<color="orange">[KMB]</color> Loud and clear on KMB. Proceeding to Stawiska on the left track, 444020.
+03_kwk_sta_laz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 444020, radio check after switching to channel 3.
+03_kwk_sta_laz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 444020, Loud and clear in Dorota.
+03_kwk_sta_laz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 444020, Radio check on channel 4.
+03_kwk_sta_laz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 444020, Loud and clear in the Dąbrowa Górnicza Wschodnia. Providing passage, departing on the left track towards Kozioł.
+03_kwk_sta_laz_et22_P_DGW_Hello_3=<color="green">[Ty]</color> 444020 To Kozioł on the left track, acknowledged.
+03_kwk_sta_laz_et22_P_LC_Hello_1=<color="green">[Ty]</color> Łazy ŁC 444020, Radio check on channel 2.
+03_kwk_sta_laz_et22_P_LC_Hello_2=<color="orange">[ŁC]</color> 444020, Hangos és tiszta ŁC.
+03_kwk_sta_laz_et22_P_LA_Man_0=<color="orange">[ŁA]</color> 444020 to Łazy ŁA. You're finishing your shift and parking the locomotive in the shed, right?
+03_kwk_sta_laz_et22_P_LA_Man_1=<color="green">[Ty]</color> I'm reporting in, 444020. That's correct.
+03_kwk_sta_laz_et22_P_LA_Man_2=<color="orange">[ŁA]</color> 444020, After stopping, please detach from the train and report readiness for shunting. After changing cabins, you'll proceed to the locomotive depot in the ŁB area.
+03_kwk_sta_laz_et22_P_LA_Man2_1=<color="green">[Ty]</color> 444020 Ready for shunting.
+03_kwk_sta_laz_et22_P_LA_Man2_2=<color="orange">[ŁA]</color> 444020, One moment.
+03_kwk_sta_laz_et22_P_Ack=<color="green">[Ty]</color> Understood.
+03_kwk_sta_laz_et22_StaticNoise=[zaj]
+02_kat_sedz_et22_Hello=Welcome to the Katowice-Sędziszów freight scenario. Get ready to roll, complete your train, and contact the dispatcher in Katowice.
+02_kat_sedz_et22_Loading=Scenario loading in progress. Call the dispatcher again in a moment.
+02_kat_sedz_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, Train 423042 ready at the entry semaphore T after locomotive repair.
+02_kat_sedz_et22_P_Kato_Start_2=<color="orange">[KO]</color> 423042, Katowice, Megértve. Szemafor biztosítása.
+02_kat_sedz_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, Report to 423042 Confirming radio communication test after channel change.
+02_kat_sedz_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Hangos és tiszta a Sosnowiec Południowy 423042, rádiós ellenőrzés sikeres.
+02_kat_sedz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 423042, Rádióteszt a 3-as csatornára váltás után.
+02_kat_sedz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 423042, Hangosan és tisztán Dorotában.
+02_kat_sedz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 423042, Radio test on channel 4.
+02_kat_sedz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 423042, Loud and clear at Wschodniej.
+02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Ty]</color> Sędziszow, jelentse a 424032-es számra
+02_kat_sedz_et22_P_Sd_Hello_2=<color="orange">[Sd]</color> Sędziszów fogadása.
+02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Ty]</color> Diszpécser, lejár a munkaidőm, és veled együtt fogom tolatni a vonatot.
+02_kat_sedz_et22__Sd_Hello_4=<color="orange">[DGW]</color> Sędziszów understood, entry granted to track 55.
+02_kat_sedz_et22_P_Ack=<color="green">[Ty]</color> Received.
+02_kat_sedz_et22_StaticNoise=[zzzzkszkksszszzkkkszzzz]
+02_kat_sedz_et22_ZewHelper=Remember to call the dispatcher when changing channels for communication check.
+tut_etcs1_WelcomeText=Welcome at the Węglewo experimental track! Today, you will conduct your first course with the ED250 traction unit under the control of the ETCS system. The European Train Control System is a set of computer devices that control the train's speed, monitor the current work of the driver, and provide cab signaling - presenting the status of indicators and signals on the computer screen.
+tut_etcs1_WelcomeText2=ETCS is part of the European Rail Traffic Management System, which enables trains from all carriers of the Old Continent to operate on a single, common European network of railway lines without the need to change drivers or rolling stock at border crossings. Please proceed to the train and activate the cab.
+tut_etcs1_InputDriverNumber=In the middle of the dashboard, you'll find the DMI screen - the Driver Machine Interface. This screen is used to operate the ETCS system. The first step after starting the vehicle is to enter the driver's ID. Today, you are operating as 9022. Use the buttons around the screen to input the number, then press ENTER.
+tut_etcs1_InputLevel=Before starting the journey, you need to select the level of ETCS for the train's operation. There are two scenarios. In the first scenario, the train is on a track not supervised by the system and will enter supervised area during the journey. In the second scenario, the train is already within the system's operating area. Today, we are executing the first case - we will enter the supervised area shortly, so currently, we are under the control of the SHP system. Select the SHP level using the buttons around the screen and press ENTER.
+tut_etcs1_SelectTrainData=Good job! You are now facing the main DMI menu. To start the journey, you need to select the START option. However, please note that this option is currently unavailable. You still need to input detailed train data into the computer - its length, mass, and percentage of braking mass. Select option number three.
+tut_etcs1_InputFixedTrainData=In the case of traction units, the situation is simplified - they have a fixed length and mass. Therefore, a ready-made set is available. Select the first option, then press ENTER. Next, confirm the entered data with the YES button and press ENTER.
+tut_etcs1_InputTrainNumber=Every train in linear traffic have assigned number. Entering the number into the system allows for easy identification of the train and its position by traffic controllers. Our train is on a test run, so enter 60901.
+tut_etcs1_ConfirmAcknowledgeFirstTime=Ön most a fő vezetési képernyőn van. A sebességmérő alatt villogó sárga keret látható – ez egy megerősítési kérés az ETCS rendszertől. Ez magában foglalhatja az üzemmódváltást, a szintváltást vagy bizonyos biztonsággal kapcsolatos jelzőszámok áthaladását. A kérés megerősítéséhez használja az ENTER gombot a monitor körül vagy a {button=Vonatvezető|ETCS Ack gomb} gombot.
+tut_etcs1_ETCSDataConfirmFinish=It's time to put theory into practice. The ETCS system already has all the necessary data for entering the supervised area, and the mode change has been approved. Now, drive the train according to the signal indication.
+tut_etcs1_L1AnnouncementSign=You are approaching the indicator announcing a change in the ETCS level. A yellow board indicates the upcoming change, white indicates the location of the change, and a crossed-out board indicates the end of the ETCS supervision area.
+tut_etcs1_L1AnnouncementConfirm=The train has read the next balise group - indicating a level change. A request to confirm the level change has appeared on the screen.
+tut_etcs1_L1AnnouncementConfirm2=Erősítse meg - mint korábban - az ENTER gombbal a képernyőn vagy a {button=Vonatvezető|ETCS Ack gomb} gombbal. A reagálás elmulasztása vészfékezést von maga után.
+tut_etcs2_StoppedAtS1_1=Elérte azt a pontot, ahol a továbblépési engedély lejár. Ez a megállást jelző jelzéshez kapcsolódik.
+tut_etcs2_StoppedAtS1_2=Használja a ZEW3 rádióhívást a diszpécserrel való kapcsolatfelvételhez.
+tut_etcs1_InputFixedTrainDataConfirm=Ezután erősítse meg a bevitt adatokat a YES gombbal, és nyomja meg az ENTER-t.
+tut_etcs1_SelectStart=Amint látja, most elérhető a START opció. Itt az ideje, hogy elkezdjük utazásunkat – nyomja meg az egyiket a képernyő körüli billentyűzeten.
+tut_etcs1_FullSupervisionExplanation=Megcsináltuk! Az ETCS rendszer teljes felügyeleti módba lépett. Ez azt jelenti, hogy mostantól ez szabályozza a megengedett sebességet és a jelzéseket. Jelenleg a megengedett sebesség kör alakú keretben jelenik meg a sebességmérő körül. Amint látja, jelenleg <kmph>120</kmph>. Folytassa a vezetést. A kiválasztott pályamenti jelzők áthaladásakor azok tartalma szöveges üzenet formájában megismétlődik a képernyőn. Ne feledje, hogy a megengedett sebesség túllépése hangriasztást vált ki. Ha a mozdonyvezető nem reagál, a vonat lelassul.
+tut_etcs2_SelectStart=Amint látja, most elérhető a START opció. Itt az ideje, hogy elkezdjük utazásunkat – nyomja meg az egyiket a képernyő körüli billentyűzeten.
+tut_etcs1_PassingW24=Egyes szöveges üzenetek jelentős hatással vannak a vezetés biztonságára. Ezért a mozdonyvezetőtől megerősítést kérnek. Az egyik ilyen eset a W24 jelző. Ezt a jelzőt megjelenítő jelhez közeledik. Ezenkívül a következő jelzésnél további megerősítést kérünk – erősítse meg, hogy az üzenetet a korábbiak szerint értette.
+tut_etcs1_StopingAtS1=Egy STOP jelzést mutató jelzéshez közeledik. Az útvonaltervezési területen látható. Állítsa be a vonat sebességét úgy, hogy ne lépje túl a fékezési ívet, és állítsa le a vonatot a jelzés előtt.
+tut_etcs1_StoppedAtS1_2=Használja a ZEW3 rádióhívást a diszpécserrel való kapcsolatfelvételhez.
+tut_etcs1_PassingW28=Itt van egy másik jelző, amely megerősítést igényel a mozdonyvezetőtől. A jelző az aktuális W28 rádiócsatornára vonatkozik – erősítse meg, hogy megértette az üzenetet, mint korábban, majd folytassa a vezetést a rendszer jelzései szerint.
+tut_etcs2_L2AnnouncementConfirm=A vonat beolvassa a következő balízcsoportot – ami szintváltozást jelez. A képernyőn megjelenik a szintváltozás megerősítésére vonatkozó kérés.
+tut_etcs1_PassedSubstitudeSignal=A következő jelzés a továbblépési engedélyt jelzi. Az első szinten az ETCS automatikusan TELJES FELÜGYELET üzemmódba kapcsol, ha a vonat a haladási engedélyt jelző jelzésen túl van.
+tut_etcs1_EndScenario=Ezzel a kísérleti pályán tett utazás véget ért. A három kör során megismerkedett a rendszer alapvető funkcióival különböző helyzetekben. Ha mélyebben szeretne elmélyülni az ETCS-ben, hogy megértse az összes ikont és funkciót, használja a bal felső sarokban található menüt a részletes bemutató eléréséhez. Ne feledje továbbá, hogy az ETCS jelzések elsőbbséget élveznek a szemafor jelzésekkel szemben, hacsak a szemafor nem tiltja a további mozgást. A SZEMÉLYZET FELELŐSSÉGE módba történő minden átállással kapcsolatban forduljon a diszpécserhez.
+tut_etcs2_WelcomeText2=Az ETCS az Európai Vasúti Forgalomirányítási Rendszer része, amely lehetővé teszi az öreg kontinens valamennyi fuvarozójának vonatai számára, hogy egyetlen, közös európai vasútvonal-hálózaton közlekedjenek anélkül, hogy a határátkelőhelyeken mozdonyvezetőt vagy gördülőállományt kellene cserélni. Kérjük, menjen a vonathoz, és aktiválja a taxit.
+tut_etcs2_InputDriverNumber=A műszerfal közepén találja a DMI képernyőt – a Driver Machine Interface-t. Ez a képernyő az ETCS rendszer működtetésére szolgál. A jármű elindítása után az első lépés a vezetői azonosító megadása. Ma 9022-ként működik. A képernyő körüli gombokkal írja be a számot, majd nyomja meg az ENTER billentyűt.
+tut_etcs2_InputLevel=Az utazás megkezdése előtt ki kell választania az ETCS szintjét a vonat üzemeltetéséhez. Két forgatókönyv létezik. Az első forgatókönyv szerint a vonat a rendszer által nem felügyelt vágányon van, és az utazás során felügyelt területre lép. A második forgatókönyv szerint a vonat már a rendszer működési területén belül van. Ma az első esetet hajtjuk végre - hamarosan belépünk a felügyelt területre, így jelenleg az SHP rendszer irányítása alatt állunk. Válassza ki az SHP szintet a képernyő körüli gombokkal, majd nyomja meg az ENTER gombot.
+tut_etcs2_InputFixedTrainData=A vontatójárművek esetében leegyszerűsödik a helyzet – rögzített hosszúságúak és tömegűek. Ezért kész készlet áll rendelkezésre. Válassza ki az első opciót, majd nyomja meg az ENTER billentyűt. Ezután erősítse meg a bevitt adatokat a YES gombbal, és nyomja meg az ENTER-t.
+tut_etcs2_StopingAtS1=Egy STOP jelzést mutató jelzéshez közeledik. Az útvonaltervezési területen látható. Állítsa be a vonat sebességét úgy, hogy ne lépje túl a fékezési ívet, és állítsa le a vonatot a jelzés előtt.
+tut_etcs2_PassingW28=Itt van egy másik jelző, amely megerősítést igényel a mozdonyvezetőtől. A jelző az aktuális W28 rádiócsatornára vonatkozik – erősítse meg, hogy megértette az üzenetet, mint korábban, majd folytassa a vezetést a rendszer jelzései szerint.
+tut_etcs2_EndScenario=Ezzel a kísérleti pályán tett utazás véget ért. A három kör során megismerkedett a rendszer alapvető funkcióival különböző helyzetekben. Ha mélyebben szeretne elmélyülni az ETCS-ben, hogy megértse az összes ikont és funkciót, használja a bal felső sarokban található menüt a részletes bemutató eléréséhez. Ne feledje továbbá, hogy az ETCS jelzések elsőbbséget élveznek a szemafor jelzésekkel szemben, hacsak a szemafor nem tiltja a további mozgást. A SZEMÉLYZET FELELŐSSÉGE módba történő minden átállással kapcsolatban forduljon a diszpécserhez.
+tut_etcs2_EndScenario2=Ha azonban olyan problémába ütközik, amelyet nem tud megoldani, az EVC kapcsolót a vezetőfülke hátsó falán találja. Használata leválasztja az ETCS-rendszert az adott forgatókönyvhöz. Ha soha nem akarja használni a rendszert, a szimulációs lehetőségek között letilthatja.
+tut_etcs2_ConfirmAcknowledgeFirstTime=Ön most a fő vezetési képernyőn van. A sebességmérő alatt villogó sárga keret látható – ez egy megerősítési kérés az ETCS rendszertől. Ez magában foglalhatja az üzemmódváltást, a szintváltást vagy bizonyos biztonsággal kapcsolatos jelzőszámok áthaladását. A kérés megerősítéséhez használja az ENTER gombot a monitor körül vagy a {button=Vonatvezető|ETCS Ack gomb} gombot.
+tut_etcs2_ETCSDataConfirmFinish=Ideje átültetni az elméletet a gyakorlatba. Az ETCS rendszer már rendelkezik minden szükséges adattal a felügyelt területre való belépéshez, az üzemmódváltást jóváhagyták. Most vezesse a vonatot a jelzés szerint.
+tut_etcs2_RBCConnection=A vonat áthaladt a vágányon található első balízcsoporton. A benne tárolt adatokat a fedélzeti számítógép elolvasta. Ebben a csoportban a rádióvezérlő központtal (RBC) kapcsolatos adatokat tárolták. A rendszer kapcsolatot létesített az RBC-vel, amelyet a DMI képernyő bal oldalán található fejhallgató ikon szimbolizál.
+tut_etcs2_L2AnnouncementSign=Közeledik az ETCS-szint változását bejelentő indikátorhoz. Sárga tábla jelzi a közelgő változást, fehér a változás helyét, áthúzott tábla pedig az ETCS felügyeleti terület végét.
+tut_etcs2_StoppingBeforeSBLPassingAtOS=Ismét közeledik ahhoz a ponthoz, ahol a továbblépési engedély véget ér. Az SBL jelzés ezúttal STOP jelzést jelez a vasúti forgalomirányító rendszer meghibásodása miatt. Állítsa be a sebességet úgy, hogy megálljon a jelzés előtt.
+tut_etcs1_PassingFirstSpeedLimitIncrease=A sebességkorlátozási szakasz vége felé közeledsz. Ezen a jelzőn túl <kmph>140</kmph>-ra növelheti a sebességet. Vegye figyelembe, hogy a rendszer csak akkor emeli meg a megengedett sebességet, ha a teljes vonat kilép a korlátozott szakaszról – ezért a rendszernek ismernie kell a vonat hosszát.
+tut_etcs1_PassingFirstSpeedLimitDecrease=Ügyeljen a DMI képernyő jobb oldalára. Ez az úgynevezett útvonaltervezési terület. Jelenleg a vonat megközelíti a <kmph>70</kmph> sebességkorlátozást, amely a diagramon van jelölve. Állítsa be a vonat sebességét úgy, hogy ne haladja meg a megengedett sebességet – ami simán <kmph>70</kmph>-ra csökken. A képernyőn lévő PLUSZ és MÍNUSZ gombokkal is kicsinyítheti az útvonaltervezési terület nézetét, és megtekintheti a további sebességkorlátozásokat.
+tut_etcs1_StoppingBeforeSBLPassingAtOS=Ismét közeledik ahhoz a ponthoz, ahol a továbblépési engedély véget ér. Az SBL jelzés ezúttal STOP jelzést jelez a vasúti forgalomirányító rendszer meghibásodása miatt. A vasúti forgalomirányítók nem rendelkeznek információval arról, hogy szabad-e az előttünk álló pályaszakasz. Ezért a további utazás ON SIGHT módban történik. Ebben az üzemmódban a rendszer szabályozza a megengedett sebességet, de a mozdonyvezető feladata a vonat megállítása minden akadály előtt. Erősítse meg az üzemmódváltást, és folytassa a vezetést <kmph>20</kmph>-ra korlátozott sebességgel.
+tut_etcs1_PassingOpenCrossing=Egy szintbeli átkelőhely figyelmeztető táblájához közeledik. Jelzése - két narancssárga lámpa - tájékoztatja a mozdonyvezetőt, hogy a vasúti átjáró nyitva tarthat! Ezzel a veszéllyel az ETCS ideiglenes sebességkorlátozást vezet be a kereszteződésnél <kmph>20</kmph>-ra. Az útvonaltervezési táblázaton a sebességkorlátozás nullára csökkentve látható – ez azért van így, mert fel kell készülni arra, hogy az átkelőhely előtt hirtelen megállítsa a vonatot, ha a forgalmi helyzet úgy kívánja.
+tut_etcs2_FullSupervisionExplanation=Megcsináltuk! Az ETCS rendszer teljes felügyeleti módba lépett. Ez azt jelenti, hogy mostantól ez szabályozza a megengedett sebességet és a jelzéseket. Jelenleg a megengedett sebesség kör alakú keretben jelenik meg a sebességmérő körül. Amint látja, jelenleg <kmph>120</kmph>. Folytassa a vezetést. A kiválasztott pályamenti jelzők áthaladásakor azok tartalma szöveges üzenet formájában megismétlődik a képernyőn. Ne feledje, hogy a megengedett sebesség túllépése hangriasztást vált ki. Ha a mozdonyvezető nem reagál, a vonat lelassul.
+tut_etcs2_PassingFirstSpeedLimitIncrease=A sebességkorlátozási szakasz vége felé közeledsz. Ezen a jelzőn túl <kmph>140</kmph>-ra növelheti a sebességet. Vegye figyelembe, hogy a rendszer csak akkor emeli meg a megengedett sebességet, ha a teljes vonat kilép a korlátozott szakaszról – ezért a rendszernek ismernie kell a vonat hosszát.
+tut_etcs2_StoppedBeforeSBLPassingAtOS=A vasúti forgalomirányítók nem rendelkeznek információval arról, hogy szabad-e az előttünk álló pályaszakasz. Ezért a további utazás ON SIGHT módban történik. Ebben az üzemmódban a rendszer szabályozza a megengedett sebességet, de a mozdonyvezető feladata a vonat megállítása minden akadály előtt. Erősítse meg az üzemmódváltást, és folytassa a vezetést <kmph>20</kmph>-ra korlátozott sebességgel.
+tut_etcs2_PassingOpenCrossing=Egy szintbeli átkelőhely figyelmeztető táblájához közeledik. Jelzése - két narancssárga lámpa - tájékoztatja a mozdonyvezetőt, hogy a vasúti átjáró nyitva tarthat! Ezzel a veszéllyel az ETCS ideiglenes sebességkorlátozást vezet be a kereszteződésnél <kmph>20</kmph>-ra. Az útvonaltervezési táblázaton a sebességkorlátozás nullára csökkentve látható – ez azért van így, mert fel kell készülni arra, hogy az átkelőhely előtt hirtelen megállítsa a vonatot, ha a forgalmi helyzet úgy kívánja.
+tut_etcs2_PassedSubstitudeSignal=A következő jelzés a továbblépési engedélyt jelzi. Ezért az ETCS rendszer felügyelete mellett vissza lehet térni a vezetésre. Az SR módból való kilépéshez válassza a MENÜ lehetőséget a képernyőn, majd a szemafortól kb. <méter>150</ méteres távolságban START. A funkció meghívása akkor lehetséges, ha a vonat sebessége <kmph>20</kmph> alatt van.
+tut_etcs2_PassingFirstSpeedLimitDecrease=Ügyeljen a DMI képernyő jobb oldalára. Ez az úgynevezett útvonaltervezési terület. Jelenleg a vonat megközelíti a <kmph>70</kmph> sebességkorlátozást, amely a diagramon van jelölve. Állítsa be a vonat sebességét úgy, hogy ne haladja meg a megengedett sebességet – ami simán <kmph>70</kmph>-ra csökken. A képernyőn lévő PLUSZ és MÍNUSZ gombokkal is kicsinyítheti az útvonaltervezési terület nézetét, és megtekintheti a további sebességkorlátozásokat.
+tut_etcs2_L2AnnouncementConfirm2=Erősítse meg - mint korábban - az ENTER gombbal a képernyőn vagy a {button=Vonatvezető|ETCS Ack gomb} gombbal. A reagálás elmulasztása vészfékezést von maga után.
+tut_etcs1_StoppedAtS1_1=Elérte azt a pontot, ahol a továbblépési engedély lejár. Ez a megállást jelző jelzéshez kapcsolódik.
+tut_etcs1_StoppedBeforePassingSubstitudeSignal=Megállította a vonatot a STOP jelzés előtt. A további mozgás a helyettesítő jelre történik. Az első szinten az ETCS automatikusan ON SIGHT üzemmódba kapcsol, ha a vonat a helyettesítő jelzést megjelenítő jelzésen túl van.
+tut_etcs1_EndScenario2=Ha azonban olyan problémába ütközik, amelyet nem tud megoldani, az EVC kapcsolót a vezetőfülke hátsó falán találja. Használata leválasztja az ETCS-rendszert az adott forgatókönyvhöz. Ha soha nem akarja használni a rendszert, a szimulációs lehetőségek között letilthatja. Ne feledje, hogy az első szinten a szemafor állapotadatok csak akkor frissülnek, amikor a vonat áthalad a balízon. Ez eltéréseket okozhat a jelzésekben, ha a jelzés megváltozik, mielőtt a vonat eleje elérné.
+tut_etcs2_WelcomeText=Üdvözöljük a Węglewo kísérleti pályán! Ma az ETCS rendszer irányítása alatt vezeti le első tanfolyamát az ED250 vontatóegységgel. Az Európai Vonatirányító Rendszer olyan számítógépes eszközök összessége, amelyek szabályozzák a vonat sebességét, figyelemmel kísérik a mozdonyvezető aktuális munkáját, valamint fülkejelzést biztosítanak – a jelzők és jelzések állapotát a számítógép képernyőjén jelenítik meg.
+tut_etcs2_SelectTrainData=Szép munka! Most a fő DMI menüvel áll szemben. Az utazás megkezdéséhez ki kell választania a START opciót. Felhívjuk azonban figyelmét, hogy ez a lehetőség jelenleg nem elérhető. Továbbra is részletes vonatadatokat kell bevinnie a számítógépbe – a hosszát, tömegét és a féktömeg százalékos arányát. Válassza ki a harmadik lehetőséget.
+tut_etcs2_InputFixedTrainDataConfirm=Ezután erősítse meg a bevitt adatokat a YES gombbal, és nyomja meg az ENTER-t.
+tut_etcs2_InputTrainNumber=Minden lineáris forgalomban lévő vonathoz hozzárendelt szám. A számnak a rendszerbe történő bevitele lehetővé teszi, hogy a forgalomirányítók könnyen azonosítsák a vonatot és annak helyzetét. A vonatunk próbaüzemben van, ezért írja be a 60901-et.
+tut_etcs2_PassingW24=Egyes szöveges üzenetek jelentős hatással vannak a vezetés biztonságára. Ezért a mozdonyvezetőtől megerősítést kérnek. Az egyik ilyen eset a W24 jelző. Ezt a jelzőt megjelenítő jelhez közeledik. Ezenkívül a következő jelzésnél további megerősítést kérünk – erősítse meg, hogy az üzenetet a korábbiak szerint értette.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal=Megállította a vonatot a STOP jelzés előtt. A további mozgás a helyettesítő jelre történik. Az ETCS második szintje kézi váltást igényel a SZEMÉLYI FELELŐSSÉG módra. A rendszer ebben az üzemmódban nem szabályozza a jeleket, a pálya foglaltságát vagy a jármű sebességét. A mozdonyvezető teljes felelősséget vállal azért, hogy a vonatot a pálya menti berendezések jelzései szerint üzemelteti. Az erre a módra való átálláshoz a diszpécser jóváhagyása szükséges írásos megrendelés formájában.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal3=Most váltson SR módra, ami azt jelenti, hogy a személyzet felelős. Ehhez nyomja meg az OVERRIDE gombot, majd az EoA - End Of Authority -t, ami a továbblépési engedély végét jelenti. Ezután haladjon tovább a jelzésig - <kmph>20</kmph>, majd <kmph>40</kmph> sebességgel a helyettesítő jelzésen való vezetés miatt. Ne feledje, hogy ennek a funkciónak a meghívása csak a vonat álló helyzetében lehetséges.

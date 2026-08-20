@@ -1,7 +1,7 @@
 Mission_completed=任務完成
 Mission_Failed=任務失敗
 Mission_Failed_Derailed=任務失敗:列車脫軌
-Mission_Failed_Stop_Signal_Transgression=任務失敗:冒進停止信號
+Mission_Failed_Stop_Signal_Transgression=任務失敗:冒進停止號誌
 abbrev_points=分
 abbrev_point=分
 Award_Departed_from_the_station=準點發車

@@ -96,7 +96,7 @@ msgstr "列車資訊"
 #: ../EVC/DMI/windows.cpp:201 ../EVC/DMI/windows.cpp:332
 #: ../EVC/DMI/windows.cpp:1170
 msgid "Train type"
-msgstr "列車種別"
+msgstr "列車類別"
 
 #: ../EVC/DMI/windows.cpp:209 ../EVC/DMI/windows.cpp:334
 #: ../EVC/DMI/windows.cpp:1042 ../EVC/DMI/windows.cpp:1347
@@ -106,7 +106,7 @@ msgstr "長度(m)"
 #: ../EVC/DMI/windows.cpp:210 ../EVC/DMI/windows.cpp:1086
 #: ../EVC/DMI/windows.cpp:1351
 msgid "Brake percentage"
-msgstr "制軔比"
+msgstr "軔重百分比"
 
 #: ../EVC/DMI/windows.cpp:211 ../EVC/DMI/windows.cpp:1084
 #: ../EVC/DMI/windows.cpp:1355
@@ -196,7 +196,7 @@ msgstr "FG 4"
 #: ../EVC/DMI/windows.cpp:231 ../EVC/DMI/windows.cpp:333
 #: ../EVC/DMI/windows.cpp:1088
 msgid "Train category"
-msgstr "列車種別"
+msgstr "列車類別"
 
 #: ../EVC/DMI/windows.cpp:238 ../EVC/DMI/windows.cpp:1056
 msgid "Axle load category"
@@ -254,7 +254,7 @@ msgstr "清除VBC"
 
 #: ../EVC/DMI/windows.cpp:335
 msgid "Brake percentaje"
-msgstr "制軔比"
+msgstr "軔重百分比"
 
 #: ../EVC/DMI/windows.cpp:336
 msgid "Maximum speed (km/h)"
@@ -430,11 +430,11 @@ msgstr "未經授權通過EoA/LoA"
 
 #: ../EVC/Procedures/train_trip.cpp:30 ../EVC/TrainSubsystems/brake.cpp:30
 msgid "Balise read error"
-msgstr "地上子資料錯誤"
+msgstr "應答器讀取錯誤"
 
 #: ../EVC/Procedures/train_trip.cpp:34
 msgid "No MA received at level transition"
-msgstr "地上子無信號"
+msgstr "未收到應答器訊號"
 
 #: ../EVC/Procedures/train_trip.cpp:37 ../EVC/TrainSubsystems/brake.cpp:64
 msgid "Communication error"
@@ -462,7 +462,7 @@ msgstr "無路線資料"
 
 #: ../EVC/Procedures/train_trip.cpp:71
 msgid " brake demand"
-msgstr " 煞車"
+msgstr " 制軔要求"
 
 #: ../EVC/STM/stm.cpp:411
 msgid " failed"
@@ -486,7 +486,7 @@ msgstr "路線電壓"
 
 #: ../EVC/TrainSubsystems/brake.cpp:50
 msgid "Runaway movement"
-msgstr "防溜煞車"
+msgstr "列車溜逸"
 
 #: ../EVC/TrainSubsystems/brake.cpp:86
 msgid "Train data changed"

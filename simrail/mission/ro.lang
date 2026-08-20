@@ -1,0 +1,22 @@
+
+
+startup_message=Bun venit la versiunea demo SimRail. Te afli la stația Dąbrowa Górnicza Ząbkowice.
+departure=40665, gata de plecare.
+substitute_signal=Dąbrowa Górnicza, 40665, solicită permisiunea de a intra în stație.
+veh_enable_battery=Grozav. Acum porniți bateria și apoi închideți capacul.
+veh_activate_cab=Activați cabina, rotind întrerupătorul în sensul acelor de ceasornic în prima poziție.
+veh_turn_on_breaker=Acum, închideți întrerupătorul
+veh_set_dir_forward=Acum, setați direcția înainte.
+veh_hold_pipe_unlock=Țineți apăsat butonul principal de deblocare a frânei.
+veh_release_spring=Acum trebuie să eliberăm frâna de parcare.
+drive_to_platform=Așteptați să apară lumina albă la semafor, care vă va permite să conduceți spre platformă.
+mission_finished=Felicitări, misiune încheiată!
+obey_train=Conduceți trenul conform orarului
+veh_reset_vigilance_system=Folosiți butonul sau un {button=Sofer de tren|Alerta} pentru a reseta sistemul de securitate CA/SHP. Aceste sisteme vă vor verifica în mod regulat vigilența în timpul conducerii.
+veh_turn_on_radio=Acum, pornește stația. Vă va permite să comunicați cu dispecerul pe toată durata călătoriei.
+veh_raise_pantograph=Vehiculul nostru este alimentat cu energie electrică de la sistemul de linia de contact, așa că este necesar să ridicați pantograful.
+veh_wait_for_breaker=Așteptați ca întrerupătorul de circuit să se închidă rapid și de asemenea, așteptați ca convertorul și compresorul să pornească. Funcționarea corectă a acestor dispozitive este necesară, de exemplu pentru alimentarea sistemului de frânare al trenului.
+veh_set_brake_drive=Deplasați maneta frânei în poziția de conducere.
+veh_close_doors=Dezactivați capacitatea de a deschide ușile, rotind întrerupătorul în poziția corectă.
+veh_push_main_to_drive=Împingeți manșa de accelerație înainte pentru a accelera. Puteți folosi {button=Train Driver|Create Throttle}. Controlați accelerația pentru a nu depăși limita de viteză de <kmph>25</kmph>.
+veh_use_zew=Utilizați butonul de apel de pe stația dvs, pentru a confirma dispecerului ca sunteți gata.

@@ -1,0 +1,7 @@
+{
+    "#status_menu": "В головному меню",
+    "#status_depot": "В депо",
+    "#status_sp_driving": "Управляє % vehicle%, наступна станція % next_point%",
+    "#status_mp_driving": "Онлайн на % server%, управляє % vehicle%, наступна станція % next_point%",
+    "#status_mp_dispatching": "Онлайн на % server%, чергує на % station%"
+}

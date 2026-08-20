@@ -1,0 +1,7 @@
+{
+    "#status_depot": "În depou de locomotive",
+    "#status_mp_dispatching": "Online pe %server% Idm %statie%",
+    "#status_mp_driving": "Online pe %server%, conducere %vehicul%, urmatorul punct %next_point%",
+    "#status_menu": "În meniul principal",
+    "#status_sp_driving": "Conducere %vehicul%, următorul punct %următorul_punct%"
+}

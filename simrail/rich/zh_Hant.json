@@ -1,0 +1,7 @@
+{
+    "#status_mp_dispatching": "在線上伺服器 %server% 擔任 %station% 行車調度員",
+    "#status_menu": "在主選單中",
+    "#status_depot": "在機務段中",
+    "#status_sp_driving": "駕駛 %vehicle%，下一個通過點為 %next_point%",
+    "#status_mp_driving": "在線上伺服器 %server% 駕駛 %vehicle%，下一個通過點為 %next_point%"
+}

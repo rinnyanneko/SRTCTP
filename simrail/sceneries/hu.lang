@@ -1,0 +1,48 @@
+
+
+KatowiceWarszawa=Katowicw - Varsó
+KWKStaszicSedziszow=Katowice - Sędziszów
+LiniaKolejowaNr1=1-es számú vasútvonal
+LiniaKolejowaNr171=171-es számú vasútvonal
+LinieKolejoweNr4_171=1-es, 62-es és 171-es számú vasútvonalak
+
+#Scenarios
+Tutorial_scenario=Oktatóanyag
+DemoSceneryDescription=Oktatóküldetés indítása.
+#Sceneries
+DemoSceneryName=Demo helyszín
+LiniaKolejowaNr1Desc=Az 1-es számú vasútvonal <km>316</km> hosszú és Varsótól Katowicéig halad. A vonalon engedélyezett legnagyobb sebesség <kmph>160</kmph>.
+LiniaKolejowaNr171Desc=Az egyik legfőbb szállítási útvonala a szénnek Felső-Sziléziából, Lengyelország leginkább iparosodott részéből. A vonalon engedélyezett legnagyobb sebesség <kmph>30</kmph>-tól <kmph>120</kmph>-ig változik.
+Tutorial_scenario_desc=Ebben a küldetésben megtanulod vezetni a 22WE villamos motorvonatot Dąbrowa Górnicza Ząbkowice és Będzin között.
+
+#Scenarios
+day_scenario=Dąbrowa Górnicza Ząbkowice - Będzin
+day_scenario_desc=Vezesd a Ząbkowice és Będzin közötti vonatot még egyszer, egy másik napszakban (nem tartalmaz oktatást).
+
+#Scenarios
+cargo_scenario=KWK Staszic - Sosnowiec Dańdówka
+cargo_scenario_desc=Vezesd a 414018 számú tehervonatot KWK Staszic és Sosnowiec Dańdówka között.
+1_KatowiceWarszawa_4EIJ1401=Menjen gyors személyvonattal Varsóból Katowicébe.
+1_KatowiceWarszawa_5MPE14103=Menjen személyvonattal Varsóból Katowicébe.
+Tutorial2_Desc=Hajtson személyvonat Zawiercie-ből Katowicébe.
+2_StaszicSedziszow_6ROJ245001=Vezessél tehervonatot Sędziszówból a KWK Staszicba.
+1_KatowiceWarszawa_3EIJ4500=Menjen gyors személyvonattal Katowicéből Varsóba.
+1_KatowiceWarszawa_6ROJ40614=Hajtson személyvonat Katowicéből Zawiercie-be.
+2_StaszicSedziszow_4ROJ24909=Menjél személyvonattal Sędziszówból Katowicébe.
+2_StaszicSedziszow_5ROJ42900=Menjél személyvonattal Katowicéből Sędziszówba.
+Tutorial34WE=34WE bemutató
+TutorialEU07=EU07 Bemutató
+TutorialE186=E186 bemutató
+LineNo171_62=számú sor 171, 62
+Lineno62_1=számú sor 62, 1
+Lineno1_4=számú sor 1, 4
+Tutorial22WE=22WE bemutató
+TutorialEN57=Oktatóanyag EN57
+TutorialET22=Oktatóanyag ET22
+TrainingTrackZmigrod=Żmigród-i edzőpálya
+ETCS_training_scenarios=ETCS képzési forgatókönyvek
+ETCS_training_scenario_scenery_description=Lépjen be a modern vasúti forgalomirányító rendszerek világába – ismerje meg az ETCS működését – 1. és 2. szint.
+ETCSZmigrod_SceneryNameTextL1=ETCS képzési forgatókönyv 1. szint
+ETCSZmigrod_SceneryDescriptionL1=Ebben a forgatókönyvben megtanulja, hogyan kell ED250-es nagysebességű vonatot vezetni egy ETCS 1-es szintű felügyelete mellett. Megtanulja, hogyan indítsa el a rendszert, vigye be a vonat adatait, és hogyan vezesse a vonatot a rendszer utasításait követve mind a normál, mind pedig a rendszerben. kivételes helyzetek, mint például a vasúti forgalomirányító berendezések hibái. A forgatókönyv megkezdése előtt jártasnak kell lennie az ED250-es vonat ETCS-rendszer nélküli üzemeltetésében, és határozottan ismernie kell a vezetési és fékezési technikákat.
+ETCSZmigrod_SceneryNameTextL2=ETCS képzési forgatókönyv 2. szint
+ETCSZmigrod_SceneryDescriptionL2=Ebben a forgatókönyvben megtanulja, hogyan kell ED250-es nagysebességű vonatot vezetni egy ETCS 2-es szintű felügyelete mellett. Megtanulja, hogyan indítsa el a rendszert, vigye be a vonat adatait, és hogyan vezesse a vonatot a rendszer utasításait követve mind a normál, mind pedig a rendszerben. kivételes helyzetek, mint például a vasúti forgalomirányító berendezések hibái. A forgatókönyv megkezdése előtt jártasnak kell lennie az ED250-es vonat ETCS-rendszer nélküli üzemeltetésében, és határozottan ismernie kell a vezetési és fékezési technikákat.

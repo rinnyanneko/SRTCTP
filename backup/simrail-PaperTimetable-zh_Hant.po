@@ -362,7 +362,7 @@ msgstr "可供駕駛的車次"
 
 #: src/simrail_train_scanner/templates/trains.html:14
 msgid "Just a moment! We are fetching the freshest data just for you..."
-msgstr "請稍候！ 我們正在為您載入最新的數據..."
+msgstr "請稍候！ 我們正在為您載入最新的資料..."
 
 #: src/simrail_train_scanner/templates/trains.html:29
 #: src/simrail_train_scanner/templates/trains.html:40
@@ -572,7 +572,7 @@ msgid "Length"
 msgstr "長度"
 
 msgid "Br.sett."
-msgstr "煞車反映"
+msgstr "軔機作用"
 
 msgid "Route:"
 msgstr "運行路線："
